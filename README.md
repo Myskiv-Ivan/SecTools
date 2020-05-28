@@ -18,7 +18,8 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [urlscan](https://urlscan.io/)
 * [scans](https://scans.io/)
 * [shodan](https://www.shodan.io/)
-
+* [censys](https://censys.io/)
+* [zoomeye](https://www.zoomeye.org/)
 ____
 # Software list
 Vulnerability Analysis Software.
@@ -55,6 +56,7 @@ Vulnerability Analysis Software.
 |[routerslpoit](https://github.com/threat9/routersploit)|Exploit Framework|
 |[Arachni](https://github.com/Arachni/arachni)|Web Scanner| 
 |[Nikto](https://github.com/sullo/nikto)|Web Scanner| 
+|[Legion](https://github.com/GoVanguard/legion)|Scanner| 
 |[Nessus](https://www.tenable.com/products/nessus/nessus-professional)|Scanner| 
 |[OpenVAS](https://www.openvas.org/)|Scanner| 
 |[Acuentrix](http://www.acunetix.com/vulnerability-scanner/)|Scanner| 
