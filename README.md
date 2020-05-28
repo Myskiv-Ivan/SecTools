@@ -1,8 +1,3 @@
-# SecTools
-
-
-____
-
 # OSINT list
 Open-source intelligence (OSINT) is intelligence collected from publicly available sources. 
 * [Sherlock](https://github.com/sherlock-project/sherlock)
@@ -18,7 +13,8 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [urlscan](https://urlscan.io/)
 * [scans](https://scans.io/)
 * [shodan](https://www.shodan.io/)
-
+* [censys](https://censys.io/)
+* [zoomeye](https://www.zoomeye.org/)
 ____
 # Software list
 Vulnerability Analysis Software.
@@ -44,7 +40,7 @@ Vulnerability Analysis Software.
 |[WAScan](https://github.com/m4ll0k/WAScan)|Web Scanner|
 |[YukiChan](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest)|Scanner| 
 |[Poscan](https://github.com/erevus-cn/pocscan)|Scanner|
-|[knock](https://github.com/guelfoweb/knock|Subdomain Enumeration|
+|[knock](https://github.com/guelfoweb/knock|Subdomain)|Subdomain Enumeration|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner| 
 |[Zaproxy](https://github.com/zaproxy/zaproxy)|Web Scanner|
 |[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration|
@@ -55,6 +51,7 @@ Vulnerability Analysis Software.
 |[routerslpoit](https://github.com/threat9/routersploit)|Exploit Framework|
 |[Arachni](https://github.com/Arachni/arachni)|Web Scanner| 
 |[Nikto](https://github.com/sullo/nikto)|Web Scanner| 
+|[Legion](https://github.com/GoVanguard/legion)|Scanner| 
 |[Nessus](https://www.tenable.com/products/nessus/nessus-professional)|Scanner| 
 |[OpenVAS](https://www.openvas.org/)|Scanner| 
 |[Acuentrix](http://www.acunetix.com/vulnerability-scanner/)|Scanner| 
@@ -67,9 +64,7 @@ Vulnerability Analysis Software.
 |[Nexpose](https://www.rapid7.com/products/nexpose/)|Scanner| 
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)|Scanner| 
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Web Scanner|
-
 ____
-
 # Vulnerability Database list
 |Data|Description|
 |----------------|----------------|
@@ -79,7 +74,6 @@ ____
 |[NVD NIST](https://nvd.nist.gov)|NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP)| 
 |[Vuldb](https://vuldb.com/)|Vulnerability database documenting and explaining security vulnerabilities and exploits| 
 ____
-
 # ATT&CK tests by @atomic-red-team
   - Windows tests by tactic ([Windows.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20windows.csv))
   - MacOS tests by tactic ([MacOS.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20MacOS.csv))
