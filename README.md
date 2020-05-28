@@ -81,6 +81,6 @@ ____
 ____
 
 # ATT&CK tests @atomic-red-team
-  - Windows tests by tactic ([md](ATT&CK-windows.md))
-  - MacOS tests by tactic ([md](ATT&CK/ATT&CK-linux.md))
-  - Linux tests by tactic ([md](atomics/Indexes/Indexes-Markdown/windows-index.md))
+  - Windows tests by tactic ([Windows.csv](ATT&CK/Tactic & Technique windows.csv))
+  - MacOS tests by tactic ([MacOS.csv](ATT&CK/Tactic & Technique MacOS.csv))
+  - Linux tests by tactic ([Linux.csv](ATT&CK/Tactic & Technique linux.csv))
