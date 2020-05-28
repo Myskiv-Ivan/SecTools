@@ -82,5 +82,5 @@ ____
 
 # ATT&CK tests @atomic-red-team
   - Windows tests by tactic ([Windows.csv](ATT&CK/Tactic & Technique windows.csv))
-  - MacOS tests by tactic ([MacOS.csv](ATT&CK/Tactic & Technique MacOS.csv))
+  - MacOS tests by tactic ([MacOS.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20windows.csv))
   - Linux tests by tactic ([Linux.csv](ATT&CK/Tactic & Technique linux.csv))
