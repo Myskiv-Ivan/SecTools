@@ -40,7 +40,7 @@ Vulnerability Analysis Software.
 |[WAScan](https://github.com/m4ll0k/WAScan)|Web Scanner|
 |[YukiChan](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest)|Scanner| 
 |[Poscan](https://github.com/erevus-cn/pocscan)|Scanner|
-|[knock](https://github.com/guelfoweb/knock|Subdomain)|Subdomain Enumeration|
+|[knock](https://github.com/guelfoweb/knock)|Subdomain Enumeration|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner| 
 |[Zaproxy](https://github.com/zaproxy/zaproxy)|Web Scanner|
 |[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration|
