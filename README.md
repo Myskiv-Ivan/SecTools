@@ -18,7 +18,6 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [urlscan](https://urlscan.io/)
 * [scans](https://scans.io/)
 * [shodan](https://www.shodan.io/)
-* ....
 
 ____
 # Software list
@@ -45,9 +44,14 @@ Vulnerability Analysis Software.
 |[WAScan](https://github.com/m4ll0k/WAScan)|Web Scanner|
 |[YukiChan](https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest)|Scanner| 
 |[Poscan](https://github.com/erevus-cn/pocscan)|Scanner|
+|[knock](https://github.com/guelfoweb/knock|Subdomain Enumeration|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner| 
 |[Zaproxy](https://github.com/zaproxy/zaproxy)|Web Scanner|
+|[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration|
+|[SubDomain3](https://github.com/yanxiu0614/subdomain3)|Subdomain Enumeration|
 |[Striker](https://github.com/s0md3v/Striker)|Scanner| 
+|[AutoRecon](https://github.com/Tib3rius/AutoRecon)|Scanner| 
+|[domained](https://github.com/TypeError/domained)|Subdomain Enumeration|
 |[routerslpoit](https://github.com/threat9/routersploit)|Exploit Framework|
 |[Arachni](https://github.com/Arachni/arachni)|Web Scanner| 
 |[Nikto](https://github.com/sullo/nikto)|Web Scanner| 
@@ -63,7 +67,6 @@ Vulnerability Analysis Software.
 |[Nexpose](https://www.rapid7.com/products/nexpose/)|Scanner| 
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)|Scanner| 
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Web Scanner|
-....
 
 ____
 # Vulnerability Database list
