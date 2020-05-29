@@ -20,10 +20,7 @@ ____
 Vulnerability Analysis Software.
 | Software | Category|Language|
 |----------------|----------------|----------------|
-|[Bandit](https://github.com/PyCQA/bandit)|Static Analysis| 
-.. image:: https://img.shields.io/pypi/pyversions/bandit.svg
-    :target: https://pypi.org/project/bandit/
-    :alt: Python Versions|
+|[Bandit](https://github.com/PyCQA/bandit)|Static Analysis| [![GitHub version](https://img.shields.io/pypi/pyversions/bandit.svg)](https://pypi.org/project/bandit/)|
 |[w3af](https://github.com/andresriancho/w3af)|Web Scanner| |
 |[LLVM Clang](https://github.com/llvm/llvm-project)|Static Analysis| |
 |[ScanOval](https://bdu.fstec.ru/site/scanoval)|Analysis Software|| 
