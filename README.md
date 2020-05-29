@@ -18,6 +18,7 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 ____
 #  :hammer: Software list
 Vulnerability Analysis Software.
+
 | Software | Category|Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[Bandit](https://github.com/PyCQA/bandit)|Static Analysis|:heavy_check_mark:|
@@ -30,7 +31,6 @@ Vulnerability Analysis Software.
 |[Scanless](https://github.com/vesche/scanless)|Scanner|:heavy_check_mark:|
 |[NoSQLMap](https://github.com/codingo/NoSQLMap)|NoSQL Scanner|:heavy_check_mark:|
 |[Nmap](https://nmap.org/)|Scanner|:heavy_check_mark:|
-
 |[Snyk](https://github.com/snyk)|Application Scanner|:heavy_check_mark:|
 |[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
 |[truffleHog](https://github.com/dxa4481/truffleHog)|Secret finding| :x: |
@@ -38,8 +38,6 @@ Vulnerability Analysis Software.
 |[PrismaCloud](https://www.prisma.io/cloud)|Application Scanner|:heavy_check_mark:|
 |[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)|Application Scanner|:heavy_check_mark:|
 |[Contrast](https://www.contrastsecurity.com/demo)|Application Scanner|:heavy_check_mark:|
-
-
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
 |[cobra](https://github.com/wufeifei/cobra)|Static Analysis| :x: |
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|Static Analysis|  :x:|
@@ -77,6 +75,15 @@ Vulnerability Analysis Software.
 |[Nexpose](https://www.rapid7.com/products/nexpose/)|Scanner|:heavy_check_mark: |
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)|Scanner|  :x: |
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Web Scanner|:heavy_check_mark: |
+
+## SAST 
+
+## DAST
+
+## IAST
+
+## Scanners
+
 ____
 #  :open_file_folder: Vulnerability Database list
 |Data|Description|
