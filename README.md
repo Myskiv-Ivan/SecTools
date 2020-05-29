@@ -19,13 +19,17 @@ ____
 #  :hammer: Software list
 Vulnerability Analysis Software.
 | Software | Category|Update Last 6 mouth|
-|----------------|----------------|:----------------:|
+|----------------|:----------------:|:----------------:|
 |[Bandit](https://github.com/PyCQA/bandit)|Static Analysis|:heavy_check_mark:|
+|[Metasploit](https://github.com/rapid7/metasploit-framework)|Exploit Framework| :heavy_check_mark:|
+|[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Exploit Framework (for Mobile)| :heavy_check_mark:|
 |[w3af](https://github.com/andresriancho/w3af)|Web Scanner| :x:|
 |[LLVM Clang](https://github.com/llvm/llvm-project)|Static Analysis| :heavy_check_mark:|
 |[ScanOval](https://bdu.fstec.ru/site/scanoval)|Analysis Software|:heavy_check_mark: | 
 |[sn1per](https://github.com/1N3/Sn1per)|Scanner|:heavy_check_mark:|
 |[Scanless](https://github.com/vesche/scanless)|Scanner|:heavy_check_mark:|
+|[NoSQLMap](https://github.com/codingo/NoSQLMap)|NoSQL Scanner|:heavy_check_mark:|
+|[Nmap](https://nmap.org/)|Scanner|:heavy_check_mark:|
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
 |[cobra](https://github.com/wufeifei/cobra)|Static Analysis| :x: |
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|Static Analysis|  :x:|
