@@ -1,4 +1,4 @@
-# OSINT list
+# :telescope: OSINT list
 Open-source intelligence (OSINT) is intelligence collected from publicly available sources. 
 * [Sherlock](https://github.com/sherlock-project/sherlock)
 * [theHarverest](https://github.com/laramies/theHarvester)
@@ -16,7 +16,7 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [censys](https://censys.io/)
 * [zoomeye](https://www.zoomeye.org/)
 ____
-# Software list
+#  :hammer: Software list
 Vulnerability Analysis Software.
 | Software | Category|Update Last 6 mouth|
 |----------------|----------------|:----------------:|
@@ -64,7 +64,7 @@ Vulnerability Analysis Software.
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)|Scanner|  :x: |
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Web Scanner|:heavy_check_mark: |
 ____
-# Vulnerability Database list
+#  :open_file_folder: Vulnerability Database list
 |Data|Description|
 |----------------|----------------|
 |[CVE](http://cve.mitre.org/)|Common Vulnerabilities and Exposures system provides a reference-method for publicly known information-security vulnerabilities and exposures| 
@@ -73,7 +73,7 @@ ____
 |[NVD NIST](https://nvd.nist.gov)|NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP)| 
 |[Vuldb](https://vuldb.com/)|Vulnerability database documenting and explaining security vulnerabilities and exploits| 
 ____
-# ATT&CK tests by @atomic-red-team
+# :clipboard: ATT&CK tests by @atomic-red-team
   - Windows tests by tactic ([Windows.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20windows.csv))
   - MacOS tests by tactic ([MacOS.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20MacOS.csv))
   - Linux tests by tactic ([Linux.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20linux.csv))
