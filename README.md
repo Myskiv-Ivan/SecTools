@@ -25,11 +25,21 @@ Vulnerability Analysis Software.
 |[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Exploit Framework (for Mobile)| :heavy_check_mark:|
 |[w3af](https://github.com/andresriancho/w3af)|Web Scanner| :x:|
 |[LLVM Clang](https://github.com/llvm/llvm-project)|Static Analysis| :heavy_check_mark:|
-|[ScanOval](https://bdu.fstec.ru/site/scanoval)|Analysis Software|:heavy_check_mark: | 
+|[ScanOval](https://bdu.fstec.ru/site/scanoval)|Application Scanner| :heavy_check_mark: | 
 |[sn1per](https://github.com/1N3/Sn1per)|Scanner|:heavy_check_mark:|
 |[Scanless](https://github.com/vesche/scanless)|Scanner|:heavy_check_mark:|
 |[NoSQLMap](https://github.com/codingo/NoSQLMap)|NoSQL Scanner|:heavy_check_mark:|
 |[Nmap](https://nmap.org/)|Scanner|:heavy_check_mark:|
+
+|[Snyk](https://github.com/snyk)|Application Scanner|:heavy_check_mark:|
+|[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
+|[truffleHog](https://github.com/dxa4481/truffleHog)|Secret finding| :x: |
+|[GitLeaks](https://github.com/zricethezav/gitleaks)|Secret finding|:heavy_check_mark: |
+|[PrismaCloud](https://www.prisma.io/cloud)|Application Scanner|:heavy_check_mark:|
+|[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)|Application Scanner|:heavy_check_mark:|
+|[Contrast](https://www.contrastsecurity.com/demo)|Application Scanner|:heavy_check_mark:|
+
+
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
 |[cobra](https://github.com/wufeifei/cobra)|Static Analysis| :x: |
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|Static Analysis|  :x:|
@@ -76,6 +86,7 @@ ____
 |[0day](http://0day.today/)|0day Today is the ultimate database of exploits and vulnerabilities and a great resource for vulnerability researchers and security professionals| 
 |[NVD NIST](https://nvd.nist.gov)|NVD is the U.S. government repository of standards based vulnerability management data represented using the Security Content Automation Protocol (SCAP)| 
 |[Vuldb](https://vuldb.com/)|Vulnerability database documenting and explaining security vulnerabilities and exploits| 
+|[Synk](https://snyk.io/vuln)|Vulnerability database detailed information and remediation guidance for known vulnerabilities|
 ____
 # :clipboard: ATT&CK tests by @atomic-red-team
   - Windows tests by tactic ([Windows.csv](https://github.com/IvanVoronov/SecTools/blob/Sec/ATT%26CK/Tactic%20%26%20Technique%20windows.csv))
