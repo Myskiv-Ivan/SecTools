@@ -21,7 +21,6 @@ Vulnerability Analysis Software.
 
 | Software | Category|Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
-
 |[Archerysec](https://github.com/archerysec/archerysec)|Vulnerability Assessment and Management| :heavy_check_mark:|
 |[Metasploit](https://github.com/rapid7/metasploit-framework)|Exploit Framework| :heavy_check_mark:|
 |[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Exploit Framework (for Mobile)| :heavy_check_mark:|
