@@ -16,7 +16,7 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [censys](https://censys.io/)
 * [zoomeye](https://www.zoomeye.org/)
 ____
-#  :hammer: Software list
+#  :hammer: SecAnalysisTools
 Vulnerability Analysis Software.
 
 | Software | Category|Update Last 6 mouth|
@@ -33,9 +33,6 @@ Vulnerability Analysis Software.
 |[domained](https://github.com/TypeError/domained)|Subdomain Enumeration|:heavy_check_mark: |
 |[routerslpoit](https://github.com/threat9/routersploit)|Exploit Framework| :x:|
 |[BeFF](https://github.com/beefproject/beef)|Exploit Framework| :heavy_check_mark:|
-
-
-
 ## SAST
 | Software | Analyze Code |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
@@ -61,9 +58,9 @@ Vulnerability Analysis Software.
 |[SonaQube](https://www.sonarsource.com/)|Application Scanner|:heavy_check_mark:|
 |[WhiteSourceSoft](https://www.whitesourcesoftware.com/free-trial/)|Application Scanner|:heavy_check_mark:|
 |[PT Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/)|C/C++,Java,JS,PHP,C#|:heavy_check_mark:|
-
-
 ## Scanners
+| Software | Category |Update Last 6 mouth|
+|----------------|:----------------:|:----------------:|
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
 |[AZScanner](https://github.com/az0ne/AZScanner)|Scanner|  :x:|
 |[faraday](https://github.com/infobyte/faraday)|Scanner|:heavy_check_mark: |
