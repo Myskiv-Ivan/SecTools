@@ -40,7 +40,7 @@ Vulnerability Analysis Software.
 ## SAST:
 | Software | Analyze Code |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
-|[SpotBugs](https://spotbugs.github.io/)|Java| :x: |
+|[SpotBugs](https://github.com/spotbugs/spotbugs)|Java|:heavy_check_mark:|
 |[PMD](https://github.com/pmd/pmd)|Multilanguage |:heavy_check_mark:|
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|PHP|  :x:|
 |[FindSecBug](https://github.com/find-sec-bugs/find-sec-bugs)|Java web, Andriod, Scala, Kotlin, Groovy|:heavy_check_mark:|
