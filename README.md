@@ -48,16 +48,16 @@ Vulnerability Analysis Software.
 |[LLVM Clang](https://github.com/llvm/llvm-project)|C, Objective-C, C++ and Objective-C++| :heavy_check_mark:|
 
 ## IAST,DAST
-| Software | Analyze |Update Last 6 mouth|
+| Software |Description |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[Snyk](https://github.com/snyk/snyk)|Scanner Source Code|:heavy_check_mark:|
-|[ScanOval](https://bdu.fstec.ru/site/scanoval)|Application Scanner| :heavy_check_mark: | 
-|[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)|Django|:heavy_check_mark:|
-|[Contrast](https://www.contrastsecurity.com/demo)|Application Scanner|:heavy_check_mark:|
+|[ScanOval](https://bdu.fstec.ru/site/scanoval)|Application Vulnerabilities in XML files| :heavy_check_mark: | 
+|[DefectDojo](https://github.com/DefectDojo/django-DefectDojo)|Scanner Django|:heavy_check_mark:|
+|[Contrast](https://www.contrastsecurity.com/demo)|Application Scanner Framework|:heavy_check_mark:|
 |[CloudSploit](https://github.com/cloudsploit/scans)|Analyze Cloud Infrastructure|:heavy_check_mark:|
-|[SonaQube](https://www.sonarsource.com/)|Application Scanner|:heavy_check_mark:|
-|[WhiteSourceSoft](https://www.whitesourcesoftware.com/free-trial/)|Application Scanner|:heavy_check_mark:|
-|[PT Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/)|C/C++,Java,JS,PHP,C#|:heavy_check_mark:|
+|[SonaQube](https://www.sonarsource.com/)|Application Scanner Framework|:heavy_check_mark:|
+|[WhiteSourceSoft](https://www.whitesourcesoftware.com/free-trial/)|Application Scanner Framework|:heavy_check_mark:|
+|[PT Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/)|Application Scanner Framework|:heavy_check_mark:|
 ## Scanners
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
