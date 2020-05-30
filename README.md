@@ -1,4 +1,4 @@
-# :telescope: OSINT list
+# :telescope: OSINT:
 Open-source intelligence (OSINT) is intelligence collected from publicly available sources. 
 * [Sherlock](https://github.com/sherlock-project/sherlock)
 * [theHarverest](https://github.com/laramies/theHarvester)
@@ -16,11 +16,13 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [censys](https://censys.io/)
 * [zoomeye](https://www.zoomeye.org/)
 ____
-#  :hammer: SecAnalysisTools
+#  :hammer: SecAnalysisTools:
 Vulnerability Analysis Software.
 
 | Software | Category|Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
+
+|[Archerysec](https://github.com/archerysec/archerysec)|Vulnerability Assessment and Management| :heavy_check_mark:|
 |[Metasploit](https://github.com/rapid7/metasploit-framework)|Exploit Framework| :heavy_check_mark:|
 |[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Exploit Framework (for Mobile)| :heavy_check_mark:|
 |[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
@@ -33,7 +35,7 @@ Vulnerability Analysis Software.
 |[domained](https://github.com/TypeError/domained)|Subdomain Enumeration|:heavy_check_mark: |
 |[routerslpoit](https://github.com/threat9/routersploit)|Exploit Framework| :x:|
 |[BeFF](https://github.com/beefproject/beef)|Exploit Framework| :heavy_check_mark:|
-## SAST
+## SAST:
 | Software | Analyze Code |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|PHP|  :x:|
@@ -47,7 +49,7 @@ Vulnerability Analysis Software.
 |[Bandit](https://github.com/PyCQA/bandit)|Python|:heavy_check_mark:|
 |[LLVM Clang](https://github.com/llvm/llvm-project)|C, Objective-C, C++ and Objective-C++| :heavy_check_mark:|
 
-## IAST,DAST
+## DAST, IAST:
 | Software |Description |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[Snyk](https://github.com/snyk/snyk)|Scanner Source Code|:heavy_check_mark:|
@@ -58,7 +60,7 @@ Vulnerability Analysis Software.
 |[SonaQube](https://www.sonarsource.com/)|Application Scanner Framework|:heavy_check_mark:|
 |[WhiteSourceSoft](https://www.whitesourcesoftware.com/free-trial/)|Application Scanner Framework|:heavy_check_mark:|
 |[PT Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/)|Application Scanner Framework|:heavy_check_mark:|
-## Scanners
+## Scanners:
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
@@ -93,7 +95,7 @@ Vulnerability Analysis Software.
 |[Zaproxy](https://github.com/zaproxy/zaproxy)|Web Scanner|:heavy_check_mark: |
 |[AutoRecon](https://github.com/Tib3rius/AutoRecon)|Scanner| :heavy_check_mark: |
 ____
-#  :open_file_folder: Vulnerability Database list
+#  :open_file_folder: Vulnerability Database:
 |Data|Description|
 |----------------|----------------|
 |[CVE](http://cve.mitre.org/)|Common Vulnerabilities and Exposures system provides a reference-method for publicly known information-security vulnerabilities and exposures| 
