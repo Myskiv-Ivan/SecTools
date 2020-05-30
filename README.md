@@ -1,3 +1,5 @@
+This repository is a collection of hacker tools, resources, and links for vulnerability analysis. Most tools are UNIX-compliant, free, and open source.
+
 # :telescope: OSINT:
 Open-source intelligence (OSINT) is intelligence collected from publicly available sources. 
 * [Sherlock](https://github.com/sherlock-project/sherlock)
@@ -21,14 +23,15 @@ Vulnerability Analysis Software.
 
 | Software | Category|Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
+|[hydra](https://github.com/vanhauser-thc/thc-hydra)|Password-cracker| :heavy_check_mark: |
 |[Archerysec](https://github.com/archerysec/archerysec)|Vulnerability Assessment and Management| :heavy_check_mark:|
+|[Vuls](https://github.com/future-architect/vuls)|Vulnerability Assessment and Management| :heavy_check_mark:|
 |[Metasploit](https://github.com/rapid7/metasploit-framework)|Exploit Framework| :heavy_check_mark:|
 |[MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)|Exploit Framework (for Mobile)| :heavy_check_mark:|
 |[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
 |[truffleHog](https://github.com/dxa4481/truffleHog)|Secret finding| :x: |
 |[GitLeaks](https://github.com/zricethezav/gitleaks)|Secret finding|:heavy_check_mark: |
 |[knock](https://github.com/guelfoweb/knock)|Subdomain Enumeration| :x: |
-|[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner|  :x: |
 |[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration| :heavy_check_mark:|
 |[SubDomain3](https://github.com/yanxiu0614/subdomain3)|Subdomain Enumeration| :heavy_check_mark:|
 |[domained](https://github.com/TypeError/domained)|Subdomain Enumeration|:heavy_check_mark: |
@@ -62,6 +65,10 @@ Vulnerability Analysis Software.
 ## Scanners:
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
+https://github.com/j3ssie/Osmedeus
+|[Osmedeus](https://github.com/j3ssie/Osmedeus)|Scanner| :heavy_check_mark:|
+|[OneForAll](https://github.com/shmilylty/OneForAll)|Scanner|  :heavy_check_mark:|
+|[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner|  :x: |
 |[Xray](https://github.com/chaitin/xray)|Web Scanner| :heavy_check_mark:|
 |[AZScanner](https://github.com/az0ne/AZScanner)|Scanner|  :x:|
 |[faraday](https://github.com/infobyte/faraday)|Scanner|:heavy_check_mark: |
