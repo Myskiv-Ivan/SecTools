@@ -67,7 +67,6 @@ Vulnerability Analysis Software.
 ## Scanners:
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
-https://github.com/j3ssie/Osmedeus
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Scanner| :heavy_check_mark:|
 |[OneForAll](https://github.com/shmilylty/OneForAll)|Scanner|  :heavy_check_mark:|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner|  :x: |
