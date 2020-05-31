@@ -41,6 +41,7 @@ Vulnerability Analysis Software.
 | Software | Analyze Code |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[SpotBugs](https://github.com/spotbugs/spotbugs)|Java|:heavy_check_mark:|
+|[PVS-Studio](https://www.viva64.com/ru/pvs-studio/)|Multilanguage|:heavy_check_mark:|
 |[PMD](https://github.com/pmd/pmd)|Multilanguage |:heavy_check_mark:|
 |[PHPvulnhunter](https://github.com/OneSourceCat/phpvulhunter)|PHP|  :x:|
 |[FindSecBug](https://github.com/find-sec-bugs/find-sec-bugs)|Java web, Andriod, Scala, Kotlin, Groovy|:heavy_check_mark:|
@@ -64,6 +65,8 @@ Vulnerability Analysis Software.
 |[SonaQube](https://www.sonarsource.com/)|Application Scanner Framework|:heavy_check_mark:|
 |[WhiteSourceSoft](https://www.whitesourcesoftware.com/free-trial/)|Application Scanner Framework|:heavy_check_mark:|
 |[PT Application Inspector](https://www.ptsecurity.com/ww-en/products/ai/)|Application Scanner Framework|:heavy_check_mark:|
+
+
 ## Scanners:
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
