@@ -33,7 +33,7 @@ Vulnerability Analysis Software.
 |[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
 |[truffleHog](https://github.com/dxa4481/truffleHog)|Secret finding| :x: |
 |[GitLeaks](https://github.com/zricethezav/gitleaks)|Secret finding|:heavy_check_mark: |
-|[RedTeamScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts)|C# scrpts| :heavy_check_mark:|
+|[RedTeamScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts)|C# scripts| :heavy_check_mark:|
 |[knock](https://github.com/guelfoweb/knock)|Subdomain Enumeration| :x: |
 |[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration| :heavy_check_mark:|
 |[SubDomain3](https://github.com/yanxiu0614/subdomain3)|Subdomain Enumeration| :heavy_check_mark:|
