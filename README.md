@@ -17,6 +17,8 @@ Open-source intelligence (OSINT) is intelligence collected from publicly availab
 * [shodan](https://www.shodan.io/)
 * [censys](https://censys.io/)
 * [zoomeye](https://www.zoomeye.org/)
+* [R3CON1Z3R](https://github.com/abdulgaphy/r3con1z3r)
+
 ____
 #  :hammer: SecAnalysisTools:
 Vulnerability Analysis Software.
@@ -31,6 +33,7 @@ Vulnerability Analysis Software.
 |[git-secret](https://github.com/sobolevn/git-secret)|Cryptography|:heavy_check_mark:|
 |[truffleHog](https://github.com/dxa4481/truffleHog)|Secret finding| :x: |
 |[GitLeaks](https://github.com/zricethezav/gitleaks)|Secret finding|:heavy_check_mark: |
+|[RedTeamScripts](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts)|C# scrpts| :heavy_check_mark:|
 |[knock](https://github.com/guelfoweb/knock)|Subdomain Enumeration| :x: |
 |[SubDomainsBrute](https://github.com/lijiejie/subDomainsBrute)|Subdomain Enumeration| :heavy_check_mark:|
 |[SubDomain3](https://github.com/yanxiu0614/subdomain3)|Subdomain Enumeration| :heavy_check_mark:|
