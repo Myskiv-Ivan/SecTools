@@ -73,6 +73,7 @@ Vulnerability Analysis Software.
 ## Scanners:
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
+|[Tsunami](https://github.com/google/tsunami-security-scanner)|Scanner| :heavy_check_mark:|
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Scanner| :heavy_check_mark:|
 |[OneForAll](https://github.com/shmilylty/OneForAll)|Scanner|  :heavy_check_mark:|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner|  :x: |
@@ -96,7 +97,7 @@ Vulnerability Analysis Software.
 |[Nexpose](https://www.rapid7.com/products/nexpose/)|Scanner|:heavy_check_mark: |
 |[Raccoon](https://github.com/evyatarmeged/Raccoon)|Scanner|  :x: |
 |[WhatWeb](https://github.com/urbanadventurer/WhatWeb)|Web Scanner|:heavy_check_mark: |
-|[Puma Scan](https://github.com/pumasecurity/puma-scan)|Scanner Analysis| :x:|
+|[Puma Scan](https://github.com/pumasecurity/puma-scan)|Scanner Analysis|:heavy_check_mark:|
 |[Arachni](https://github.com/Arachni/arachni)|Web Scanner|  :x: |
 |[Legion](https://github.com/GoVanguard/legion)|Scanner|:heavy_check_mark: |
 |[Nessus](https://www.tenable.com/products/nessus/nessus-professional)|Scanner| :heavy_check_mark:|
