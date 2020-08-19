@@ -43,6 +43,7 @@ Vulnerability Analysis Software.
 ## SAST:
 | Software | Analyze Code |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
+|[Insider](https://github.com/insidersec/insider)|Java, Kotlin, Swift, .NET, C#, Javascript|:heavy_check_mark:|
 |[SpotBugs](https://github.com/spotbugs/spotbugs)|Java|:heavy_check_mark:|
 |[PVS-Studio](https://www.viva64.com/ru/pvs-studio/)|Multilanguage|:heavy_check_mark:|
 |[PMD](https://github.com/pmd/pmd)|Multilanguage |:heavy_check_mark:|
@@ -74,6 +75,7 @@ Vulnerability Analysis Software.
 | Software | Category |Update Last 6 mouth|
 |----------------|:----------------:|:----------------:|
 |[Tsunami](https://github.com/google/tsunami-security-scanner)|Scanner| :heavy_check_mark:|
+|[WATOBO](https://github.com/siberas/watobo)|Web Scanner| :heavy_check_mark:|
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Scanner| :heavy_check_mark:|
 |[OneForAll](https://github.com/shmilylty/OneForAll)|Scanner|  :heavy_check_mark:|
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner|  :x: |
