@@ -94,14 +94,14 @@ Vulnerability Analysis Software.
 
 
 ## SCA, IAC
-https://github.com/Checkmarx/kics
-https://github.com/DependencyTrack/dependency-track
-https://github.com/bridgecrewio/checkov
-https://github.com/aquasecurity/trivy
+* https://github.com/Checkmarx/kics
+* https://github.com/DependencyTrack/dependency-track
+* https://github.com/bridgecrewio/checkov
+* https://github.com/aquasecurity/trivy
 
 ## SBOM
-https://github.com/CycloneDX/cdxgen
-https://github.com/anchore/syft
+* https://github.com/CycloneDX/cdxgen
+* https://github.com/anchore/syft
 
 ## Scanners:
 | Software | Category |Update Last 6 mouth|
