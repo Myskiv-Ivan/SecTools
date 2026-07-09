@@ -110,6 +110,7 @@ Vulnerability Analysis Software.
 |----------------|:----------------:|:----------------:|
 |[Tsunami](https://github.com/google/tsunami-security-scanner)|Scanner| :heavy_check_mark: |
 |[WATOBO](https://github.com/siberas/watobo)|Web Scanner| :heavy_check_mark: |
+|[Darkmoon](https://github.com/ASCIT31/Dark-Moon)|AI Pentest| :heavy_check_mark: |
 |[Osmedeus](https://github.com/j3ssie/Osmedeus)|Scanner| :heavy_check_mark: |
 |[OneForAll](https://github.com/shmilylty/OneForAll)|Scanner| :heavy_check_mark: |
 |[osprey](https://github.com/TophantTechnology/osprey)|Web Scanner| :x: |
