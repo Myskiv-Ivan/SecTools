@@ -1,0 +1,1108 @@
+[
+  {
+    "date": "2023-07-29",
+    "kind": "release",
+    "owner": "1N3",
+    "ref": "v9.2",
+    "repo": "Sn1per"
+  },
+  {
+    "date": "2022-05-29",
+    "kind": "tag",
+    "owner": "Arachni",
+    "ref": "v1.6.1.3",
+    "repo": "arachni"
+  },
+  {
+    "date": "2026-05-18",
+    "kind": "release",
+    "owner": "Bearer",
+    "ref": "v2.0.2",
+    "repo": "bearer"
+  },
+  {
+    "date": "2026-02-24",
+    "kind": "release",
+    "owner": "BishopFox",
+    "ref": "v1.7.3",
+    "repo": "sliver"
+  },
+  {
+    "date": "2026-03-03",
+    "kind": "release",
+    "owner": "Checkmarx",
+    "ref": "v2.1.20",
+    "repo": "kics"
+  },
+  {
+    "date": "2026-07-23",
+    "kind": "release",
+    "owner": "CycloneDX",
+    "ref": "v12.8.2",
+    "repo": "cdxgen"
+  },
+  {
+    "date": "2026-07-20",
+    "kind": "release",
+    "owner": "DefectDojo",
+    "ref": "3.1.200",
+    "repo": "django-DefectDojo"
+  },
+  {
+    "date": "2026-07-20",
+    "kind": "release",
+    "owner": "DependencyTrack",
+    "ref": "5.0.3",
+    "repo": "dependency-track"
+  },
+  {
+    "date": "2026-06-25",
+    "kind": "release",
+    "owner": "Ericsson",
+    "ref": "v6.28.2",
+    "repo": "codechecker"
+  },
+  {
+    "date": "2021-08-03",
+    "kind": "release",
+    "owner": "GhostPack",
+    "ref": "1.6.4",
+    "repo": "Rubeus"
+  },
+  {
+    "date": "2023-11-21",
+    "kind": "release",
+    "owner": "GoVanguard",
+    "ref": "v0.4.3",
+    "repo": "legion"
+  },
+  {
+    "date": "2025-12-18",
+    "kind": "commit",
+    "owner": "HavocFramework",
+    "ref": null,
+    "repo": "Havoc"
+  },
+  {
+    "date": "2026-07-13",
+    "kind": "release",
+    "owner": "MISP",
+    "ref": "v2.5.44",
+    "repo": "MISP"
+  },
+  {
+    "date": "2026-07-06",
+    "kind": "release",
+    "owner": "MobSF",
+    "ref": "v4.5.1",
+    "repo": "Mobile-Security-Framework-MobSF"
+  },
+  {
+    "date": "2021-11-16",
+    "kind": "commit",
+    "owner": "Mr-Un1k0d3r",
+    "ref": null,
+    "repo": "RedTeamCSharpScripts"
+  },
+  {
+    "date": "2026-06-05",
+    "kind": "release",
+    "owner": "NationalSecurityAgency",
+    "ref": "Ghidra_12.1.2_build",
+    "repo": "ghidra"
+  },
+  {
+    "date": "2026-07-07",
+    "kind": "release",
+    "owner": "OISF",
+    "ref": "suricata-8.0.6",
+    "repo": "suricata"
+  },
+  {
+    "date": "2025-09-04",
+    "kind": "release",
+    "owner": "OJ",
+    "ref": "v3.8.2",
+    "repo": "gobuster"
+  },
+  {
+    "date": "2026-05-10",
+    "kind": "release",
+    "owner": "OWASP",
+    "ref": "v2.6.2",
+    "repo": "threat-dragon"
+  },
+  {
+    "date": "2015-06-10",
+    "kind": "commit",
+    "owner": "OneSourceCat",
+    "ref": null,
+    "repo": "phpvulhunter"
+  },
+  {
+    "date": "2026-07-22",
+    "kind": "release",
+    "owner": "OpenCTI-Platform",
+    "ref": "7.260722.0",
+    "repo": "opencti"
+  },
+  {
+    "date": "2026-02-23",
+    "kind": "release",
+    "owner": "Pennyw0rth",
+    "ref": "v1.5.1",
+    "repo": "NetExec"
+  },
+  {
+    "date": "2015-12-19",
+    "kind": "release",
+    "owner": "PowerShellMafia",
+    "ref": "v3.0.0",
+    "repo": "PowerSploit"
+  },
+  {
+    "date": "2026-02-25",
+    "kind": "release",
+    "owner": "PyCQA",
+    "ref": "1.9.4",
+    "repo": "bandit"
+  },
+  {
+    "date": "2024-10-31",
+    "kind": "release",
+    "owner": "ReFirmLabs",
+    "ref": "v3.1.0",
+    "repo": "binwalk"
+  },
+  {
+    "date": "2025-02-23",
+    "kind": "release",
+    "owner": "RustScan",
+    "ref": "2.4.1",
+    "repo": "RustScan"
+  },
+  {
+    "date": "2026-07-09",
+    "kind": "release",
+    "owner": "SigmaHQ",
+    "ref": "r2026-07-01",
+    "repo": "sigma"
+  },
+  {
+    "date": "2026-07-08",
+    "kind": "release",
+    "owner": "SonarSource",
+    "ref": "26.7.0.124771",
+    "repo": "sonarqube"
+  },
+  {
+    "date": "2026-07-07",
+    "kind": "release",
+    "owner": "SpecterOps",
+    "ref": "v9.4.0",
+    "repo": "BloodHound"
+  },
+  {
+    "date": "2026-07-24",
+    "kind": "release",
+    "owner": "SpecterOps",
+    "ref": "v2.14.0",
+    "repo": "SharpHound"
+  },
+  {
+    "date": "2026-06-30",
+    "kind": "release",
+    "owner": "TheHive-Project",
+    "ref": "4.1.0",
+    "repo": "Cortex"
+  },
+  {
+    "date": "2022-09-13",
+    "kind": "release",
+    "owner": "TheHive-Project",
+    "ref": "4.1.24",
+    "repo": "TheHive"
+  },
+  {
+    "date": "2025-11-16",
+    "kind": "commit",
+    "owner": "Tib3rius",
+    "ref": null,
+    "repo": "AutoRecon"
+  },
+  {
+    "date": "2021-04-11",
+    "kind": "commit",
+    "owner": "TypeError",
+    "ref": null,
+    "repo": "domained"
+  },
+  {
+    "date": "2026-06-23",
+    "kind": "release",
+    "owner": "Velocidex",
+    "ref": "v0.77.1",
+    "repo": "velociraptor"
+  },
+  {
+    "date": "2025-10-30",
+    "kind": "release",
+    "owner": "VirusTotal",
+    "ref": "v4.5.5",
+    "repo": "yara"
+  },
+  {
+    "date": "2024-05-06",
+    "kind": "release",
+    "owner": "Yelp",
+    "ref": "v1.5.0",
+    "repo": "detect-secrets"
+  },
+  {
+    "date": "2019-07-24",
+    "kind": "commit",
+    "owner": "abdulgaphy",
+    "ref": null,
+    "repo": "r3con1z3r"
+  },
+  {
+    "date": "2026-07-16",
+    "kind": "release",
+    "owner": "anchore",
+    "ref": "v0.116.0",
+    "repo": "grype"
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "release",
+    "owner": "anchore",
+    "ref": "v1.49.0",
+    "repo": "syft"
+  },
+  {
+    "date": "2015-04-07",
+    "kind": "release",
+    "owner": "andresriancho",
+    "ref": "1.6.49",
+    "repo": "w3af"
+  },
+  {
+    "date": "2024-09-24",
+    "kind": "release",
+    "owner": "aquasecurity",
+    "ref": "v3.9.0",
+    "repo": "cloudsploit"
+  },
+  {
+    "date": "2026-06-01",
+    "kind": "release",
+    "owner": "aquasecurity",
+    "ref": "v0.15.6",
+    "repo": "kube-bench"
+  },
+  {
+    "date": "2022-05-18",
+    "kind": "release",
+    "owner": "aquasecurity",
+    "ref": "v0.6.8",
+    "repo": "kube-hunter"
+  },
+  {
+    "date": "2025-05-02",
+    "kind": "release",
+    "owner": "aquasecurity",
+    "ref": "v1.28.14",
+    "repo": "tfsec"
+  },
+  {
+    "date": "2026-06-30",
+    "kind": "release",
+    "owner": "aquasecurity",
+    "ref": "v0.72.0",
+    "repo": "trivy"
+  },
+  {
+    "date": "2024-05-31",
+    "kind": "release",
+    "owner": "archerysec",
+    "ref": "v2.0.6",
+    "repo": "archerysec"
+  },
+  {
+    "date": "2025-10-24",
+    "kind": "release",
+    "owner": "beefproject",
+    "ref": "v0.6.0.0",
+    "repo": "beef"
+  },
+  {
+    "date": "2026-07-09",
+    "kind": "release",
+    "owner": "bridgecrewio",
+    "ref": "3.3.8",
+    "repo": "checkov"
+  },
+  {
+    "date": "2026-07-10",
+    "kind": "release",
+    "owner": "caido",
+    "ref": "v0.57.1",
+    "repo": "caido"
+  },
+  {
+    "date": "2024-07-19",
+    "kind": "release",
+    "owner": "chaitin",
+    "ref": "xpoc-0.1.0",
+    "repo": "xray"
+  },
+  {
+    "date": "2016-01-11",
+    "kind": "release",
+    "owner": "codingo",
+    "ref": "0.5",
+    "repo": "NoSQLMap"
+  },
+  {
+    "date": "2025-12-20",
+    "kind": "release",
+    "owner": "commixproject",
+    "ref": "v4.1",
+    "repo": "commix"
+  },
+  {
+    "date": "2026-03-23",
+    "kind": "release",
+    "owner": "danielmiessler",
+    "ref": "2026.1",
+    "repo": "SecLists"
+  },
+  {
+    "date": "2026-06-04",
+    "kind": "release",
+    "owner": "danmar",
+    "ref": "2.21.0",
+    "repo": "cppcheck"
+  },
+  {
+    "date": "2023-12-20",
+    "kind": "release",
+    "owner": "docker",
+    "ref": "v1.6.1",
+    "repo": "docker-bench-security"
+  },
+  {
+    "date": "2026-07-12",
+    "kind": "release",
+    "owner": "drwetter",
+    "ref": "v3.2.4",
+    "repo": "testssl.sh"
+  },
+  {
+    "date": "2021-11-04",
+    "kind": "release",
+    "owner": "duo-labs",
+    "ref": "2.10.0",
+    "repo": "cloudmapper"
+  },
+  {
+    "date": "2026-01-05",
+    "kind": "release",
+    "owner": "eclecticiq",
+    "ref": "0.10.0b1",
+    "repo": "OpenTAXII"
+  },
+  {
+    "date": "2025-12-13",
+    "kind": "release",
+    "owner": "epi052",
+    "ref": "v2.13.1",
+    "repo": "feroxbuster"
+  },
+  {
+    "date": "2025-06-10",
+    "kind": "commit",
+    "owner": "evyatarmeged",
+    "ref": null,
+    "repo": "Raccoon"
+  },
+  {
+    "date": "2026-06-11",
+    "kind": "release",
+    "owner": "falcosecurity",
+    "ref": "0.44.1",
+    "repo": "falco"
+  },
+  {
+    "date": "2026-07-13",
+    "kind": "release",
+    "owner": "ffuf",
+    "ref": "v2.2.1",
+    "repo": "ffuf"
+  },
+  {
+    "date": "2025-06-17",
+    "kind": "release",
+    "owner": "find-sec-bugs",
+    "ref": "version-1.14.0",
+    "repo": "find-sec-bugs"
+  },
+  {
+    "date": "2026-05-19",
+    "kind": "release",
+    "owner": "fortra",
+    "ref": "impacket_0_13_1",
+    "repo": "impacket"
+  },
+  {
+    "date": "2026-07-21",
+    "kind": "release",
+    "owner": "frida",
+    "ref": "17.16.4",
+    "repo": "frida"
+  },
+  {
+    "date": "2026-06-09",
+    "kind": "release",
+    "owner": "future-architect",
+    "ref": "v0.39.3",
+    "repo": "vuls"
+  },
+  {
+    "date": "2020-02-26",
+    "kind": "commit",
+    "owner": "fuzzdb-project",
+    "ref": null,
+    "repo": "fuzzdb"
+  },
+  {
+    "date": "2026-03-21",
+    "kind": "release",
+    "owner": "gitleaks",
+    "ref": "v8.30.1",
+    "repo": "gitleaks"
+  },
+  {
+    "date": "2020-04-16",
+    "kind": "commit",
+    "owner": "golismero",
+    "ref": null,
+    "repo": "golismero"
+  },
+  {
+    "date": "2026-06-18",
+    "kind": "release",
+    "owner": "google",
+    "ref": "v2.4.0",
+    "repo": "osv-scanner"
+  },
+  {
+    "date": "2026-02-19",
+    "kind": "release",
+    "owner": "google",
+    "ref": "v0.2.0",
+    "repo": "tsunami-security-scanner"
+  },
+  {
+    "date": "2026-07-23",
+    "kind": "release",
+    "owner": "greenbone",
+    "ref": "v23.50.2",
+    "repo": "openvas-scanner"
+  },
+  {
+    "date": "2026-02-14",
+    "kind": "release",
+    "owner": "guelfoweb",
+    "ref": "9.0.0",
+    "repo": "knock"
+  },
+  {
+    "date": "2026-06-27",
+    "kind": "release",
+    "owner": "hahwul",
+    "ref": "v3.1.2",
+    "repo": "dalfox"
+  },
+  {
+    "date": "2022-05-23",
+    "kind": "release",
+    "owner": "hakluke",
+    "ref": "2.1",
+    "repo": "hakrawler"
+  },
+  {
+    "date": "2025-08-23",
+    "kind": "release",
+    "owner": "hashcat",
+    "ref": "v7.1.2",
+    "repo": "hashcat"
+  },
+  {
+    "date": "2026-06-05",
+    "kind": "release",
+    "owner": "hasherezade",
+    "ref": "v0.7.2",
+    "repo": "pe-bear"
+  },
+  {
+    "date": "2026-04-16",
+    "kind": "tag",
+    "owner": "horsicq",
+    "ref": "db",
+    "repo": "Detect-It-Easy"
+  },
+  {
+    "date": "2026-07-23",
+    "kind": "release",
+    "owner": "infobyte",
+    "ref": "v5.23.0",
+    "repo": "faraday"
+  },
+  {
+    "date": "2021-01-26",
+    "kind": "release",
+    "owner": "insidersec",
+    "ref": "3.0.0",
+    "repo": "insider"
+  },
+  {
+    "date": "2026-05-29",
+    "kind": "release",
+    "owner": "j3ssie",
+    "ref": "v5.0.3",
+    "repo": "Osmedeus"
+  },
+  {
+    "date": "2025-02-17",
+    "kind": "release",
+    "owner": "jeremylong",
+    "ref": "v12.1.0",
+    "repo": "DependencyCheck"
+  },
+  {
+    "date": "2025-05-14",
+    "kind": "release",
+    "owner": "jmk-foofus",
+    "ref": "2.3",
+    "repo": "medusa"
+  },
+  {
+    "date": "2021-08-25",
+    "kind": "tag",
+    "owner": "lanmaster53",
+    "ref": "v5.1.2",
+    "repo": "recon-ng"
+  },
+  {
+    "date": "2026-06-03",
+    "kind": "release",
+    "owner": "laramies",
+    "ref": "4.11.1",
+    "repo": "theHarvester"
+  },
+  {
+    "date": "2024-10-28",
+    "kind": "release",
+    "owner": "lc",
+    "ref": "v2.2.4",
+    "repo": "gau"
+  },
+  {
+    "date": "2026-01-26",
+    "kind": "tag",
+    "owner": "lgandx",
+    "ref": "v3.2.2.0",
+    "repo": "Responder"
+  },
+  {
+    "date": "2022-06-05",
+    "kind": "release",
+    "owner": "lijiejie",
+    "ref": "v1.4",
+    "repo": "subDomainsBrute"
+  },
+  {
+    "date": "2026-06-16",
+    "kind": "release",
+    "owner": "llvm",
+    "ref": "llvmorg-22.1.8",
+    "repo": "llvm-project"
+  },
+  {
+    "date": "2026-05-12",
+    "kind": "release",
+    "owner": "log2timeline",
+    "ref": "20260512",
+    "repo": "plaso"
+  },
+  {
+    "date": "2026-06-23",
+    "kind": "release",
+    "owner": "ly4k",
+    "ref": "5.1.0",
+    "repo": "Certipy"
+  },
+  {
+    "date": "2023-05-31",
+    "kind": "release",
+    "owner": "microsoft",
+    "ref": "v1.5",
+    "repo": "infersharp"
+  },
+  {
+    "date": "2026-05-12",
+    "kind": "release",
+    "owner": "mitmproxy",
+    "ref": "v12.2.3",
+    "repo": "mitmproxy"
+  },
+  {
+    "date": "2025-04-24",
+    "kind": "release",
+    "owner": "mitre",
+    "ref": "5.3.0",
+    "repo": "caldera"
+  },
+  {
+    "date": "2026-03-29",
+    "kind": "release",
+    "owner": "nabla-c0d3",
+    "ref": "6.3.1",
+    "repo": "sslyze"
+  },
+  {
+    "date": "2024-05-10",
+    "kind": "release",
+    "owner": "nccgroup",
+    "ref": "5.14.0",
+    "repo": "ScoutSuite"
+  },
+  {
+    "date": "2026-07-24",
+    "kind": "commit",
+    "owner": "nmap",
+    "ref": null,
+    "repo": "nmap"
+  },
+  {
+    "date": "2013-07-08",
+    "kind": "tag",
+    "owner": "openwall",
+    "ref": "Owl-3_1-release",
+    "repo": "john"
+  },
+  {
+    "date": "2026-06-24",
+    "kind": "release",
+    "owner": "osquery",
+    "ref": "5.23.1",
+    "repo": "osquery"
+  },
+  {
+    "date": "2026-05-27",
+    "kind": "release",
+    "owner": "ossec",
+    "ref": "4.1.0",
+    "repo": "ossec-hids"
+  },
+  {
+    "date": "2026-04-07",
+    "kind": "release",
+    "owner": "owasp-amass",
+    "ref": "v5.1.1",
+    "repo": "amass"
+  },
+  {
+    "date": "2026-06-29",
+    "kind": "release",
+    "owner": "owasp-modsecurity",
+    "ref": "v3.0.16",
+    "repo": "ModSecurity"
+  },
+  {
+    "date": "2025-10-21",
+    "kind": "release",
+    "owner": "pixee",
+    "ref": "6.5.5",
+    "repo": "codemodder-python"
+  },
+  {
+    "date": "2026-06-29",
+    "kind": "release",
+    "owner": "pmd",
+    "ref": "pmd_releases/7.26.0",
+    "repo": "pmd"
+  },
+  {
+    "date": "2026-06-12",
+    "kind": "release",
+    "owner": "presidentbeef",
+    "ref": "v8.0.5",
+    "repo": "brakeman"
+  },
+  {
+    "date": "2024-04-22",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v0.5.2",
+    "repo": "chaos-client"
+  },
+  {
+    "date": "2026-07-16",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v1.3.0",
+    "repo": "dnsx"
+  },
+  {
+    "date": "2026-07-09",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v1.10.0",
+    "repo": "httpx"
+  },
+  {
+    "date": "2026-05-05",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v1.6.1",
+    "repo": "katana"
+  },
+  {
+    "date": "2026-07-06",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v3.11.0",
+    "repo": "nuclei"
+  },
+  {
+    "date": "2026-04-27",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v2.14.0",
+    "repo": "subfinder"
+  },
+  {
+    "date": "2026-07-26",
+    "kind": "release",
+    "owner": "projectdiscovery",
+    "ref": "v0.2.91",
+    "repo": "wappalyzergo"
+  },
+  {
+    "date": "2026-07-24",
+    "kind": "release",
+    "owner": "prowler-cloud",
+    "ref": "5.36.0",
+    "repo": "prowler"
+  },
+  {
+    "date": "2022-02-01",
+    "kind": "release",
+    "owner": "pumasecurity",
+    "ref": "2.4.11",
+    "repo": "puma-scan"
+  },
+  {
+    "date": "2026-06-23",
+    "kind": "release",
+    "owner": "radareorg",
+    "ref": "6.1.8",
+    "repo": "radare2"
+  },
+  {
+    "date": "2016-01-07",
+    "kind": "tag",
+    "owner": "rapid7",
+    "ref": "v4.11.7",
+    "repo": "metasploit-framework"
+  },
+  {
+    "date": "2026-07-20",
+    "kind": "commit",
+    "owner": "redcanaryco",
+    "ref": null,
+    "repo": "atomic-red-team"
+  },
+  {
+    "date": "2026-06-30",
+    "kind": "release",
+    "owner": "rizinorg",
+    "ref": "v2.5.0",
+    "repo": "cutter"
+  },
+  {
+    "date": "2021-01-31",
+    "kind": "release",
+    "owner": "robertdavidgraham",
+    "ref": "1.3.2",
+    "repo": "masscan"
+  },
+  {
+    "date": "2024-11-03",
+    "kind": "release",
+    "owner": "s0md3v",
+    "ref": "2.2.7",
+    "repo": "Arjun"
+  },
+  {
+    "date": "2019-04-05",
+    "kind": "release",
+    "owner": "s0md3v",
+    "ref": "v1.3.0",
+    "repo": "Photon"
+  },
+  {
+    "date": "2026-01-11",
+    "kind": "commit",
+    "owner": "sbilly",
+    "ref": null,
+    "repo": "awesome-security"
+  },
+  {
+    "date": "2026-07-14",
+    "kind": "release",
+    "owner": "securego",
+    "ref": "v2.28.0",
+    "repo": "gosec"
+  },
+  {
+    "date": "2022-09-05",
+    "kind": "release",
+    "owner": "security-code-scan",
+    "ref": "5.6.7",
+    "repo": "security-code-scan"
+  },
+  {
+    "date": "2026-07-22",
+    "kind": "release",
+    "owner": "semgrep",
+    "ref": "v1.171.0",
+    "repo": "semgrep"
+  },
+  {
+    "date": "2026-06-02",
+    "kind": "release",
+    "owner": "sensepost",
+    "ref": "1.12.5",
+    "repo": "objection"
+  },
+  {
+    "date": "2025-09-16",
+    "kind": "release",
+    "owner": "sherlock-project",
+    "ref": "v0.16.0",
+    "repo": "sherlock"
+  },
+  {
+    "date": "2022-07-10",
+    "kind": "release",
+    "owner": "shmilylty",
+    "ref": "v0.4.5",
+    "repo": "OneForAll"
+  },
+  {
+    "date": "2020-05-27",
+    "kind": "release",
+    "owner": "siberas",
+    "ref": "v1.0.1",
+    "repo": "watobo"
+  },
+  {
+    "date": "2026-05-07",
+    "kind": "release",
+    "owner": "sleuthkit",
+    "ref": "autopsy-4.23.1",
+    "repo": "autopsy"
+  },
+  {
+    "date": "2026-04-15",
+    "kind": "release",
+    "owner": "sleuthkit",
+    "ref": "sleuthkit-4.15.0",
+    "repo": "sleuthkit"
+  },
+  {
+    "date": "2022-04-07",
+    "kind": "release",
+    "owner": "smicallef",
+    "ref": "v4.0",
+    "repo": "spiderfoot"
+  },
+  {
+    "date": "2026-04-23",
+    "kind": "release",
+    "owner": "snort3",
+    "ref": "3.12.2.0",
+    "repo": "snort3"
+  },
+  {
+    "date": "2026-07-16",
+    "kind": "release",
+    "owner": "snyk",
+    "ref": "v1.1306.1",
+    "repo": "cli"
+  },
+  {
+    "date": "2022-06-05",
+    "kind": "release",
+    "owner": "sobolevn",
+    "ref": "v0.5.0",
+    "repo": "git-secret"
+  },
+  {
+    "date": "2026-07-12",
+    "kind": "release",
+    "owner": "spotbugs",
+    "ref": "4.10.3",
+    "repo": "spotbugs"
+  },
+  {
+    "date": "2026-01-01",
+    "kind": "release",
+    "owner": "sqlmapproject",
+    "ref": "1.10",
+    "repo": "sqlmap"
+  },
+  {
+    "date": "2026-02-11",
+    "kind": "release",
+    "owner": "sullo",
+    "ref": "2.6.0",
+    "repo": "nikto"
+  },
+  {
+    "date": "2025-07-26",
+    "kind": "release",
+    "owner": "swisskyrepo",
+    "ref": "4.2",
+    "repo": "PayloadsAllTheThings"
+  },
+  {
+    "date": "2024-09-18",
+    "kind": "release",
+    "owner": "tenable",
+    "ref": "v1.19.9",
+    "repo": "terrascan"
+  },
+  {
+    "date": "2025-12-30",
+    "kind": "tag",
+    "owner": "the-tcpdump-group",
+    "ref": "tcpdump-4.99.6",
+    "repo": "tcpdump"
+  },
+  {
+    "date": "2018-10-17",
+    "kind": "release",
+    "owner": "threat9",
+    "ref": "v3.4.0",
+    "repo": "routersploit"
+  },
+  {
+    "date": "2025-05-01",
+    "kind": "release",
+    "owner": "ticarpi",
+    "ref": "v2.3.0",
+    "repo": "jwt_tool"
+  },
+  {
+    "date": "2022-04-05",
+    "kind": "release",
+    "owner": "tomnomnom",
+    "ref": "v0.1.0",
+    "repo": "waybackurls"
+  },
+  {
+    "date": "2026-07-24",
+    "kind": "release",
+    "owner": "trufflesecurity",
+    "ref": "v3.96.0",
+    "repo": "trufflehog"
+  },
+  {
+    "date": "2026-04-02",
+    "kind": "release",
+    "owner": "urbanadventurer",
+    "ref": "v0.6.4",
+    "repo": "WhatWeb"
+  },
+  {
+    "date": "2026-05-03",
+    "kind": "release",
+    "owner": "vanhauser-thc",
+    "ref": "v9.7",
+    "repo": "thc-hydra"
+  },
+  {
+    "date": "2023-03-23",
+    "kind": "release",
+    "owner": "vesche",
+    "ref": "v2.2.1",
+    "repo": "scanless"
+  },
+  {
+    "date": "2026-04-30",
+    "kind": "release",
+    "owner": "volatilityfoundation",
+    "ref": "v2.28.0",
+    "repo": "volatility3"
+  },
+  {
+    "date": "2026-05-13",
+    "kind": "release",
+    "owner": "wapiti-scanner",
+    "ref": "3.3.0",
+    "repo": "wapiti"
+  },
+  {
+    "date": "2026-07-03",
+    "kind": "release",
+    "owner": "wazuh",
+    "ref": "v4.14.6",
+    "repo": "wazuh"
+  },
+  {
+    "date": "2025-08-28",
+    "kind": "tag",
+    "owner": "wireshark",
+    "ref": "wireshark-4.4.9",
+    "repo": "wireshark"
+  },
+  {
+    "date": "2018-04-02",
+    "kind": "release",
+    "owner": "wufeifei",
+    "ref": "v2.0.0-alpha.6",
+    "repo": "cobra"
+  },
+  {
+    "date": "2020-01-20",
+    "kind": "release",
+    "owner": "yanxiu0614",
+    "ref": "3.1",
+    "repo": "subdomain3"
+  },
+  {
+    "date": "2024-09-07",
+    "kind": "release",
+    "owner": "yogeshojha",
+    "ref": "v2.2.0",
+    "repo": "rengine"
+  },
+  {
+    "date": "2025-12-15",
+    "kind": "release",
+    "owner": "zaproxy",
+    "ref": "v2.17.0",
+    "repo": "zaproxy"
+  },
+  {
+    "date": "2026-07-10",
+    "kind": "release",
+    "owner": "zeek",
+    "ref": "v8.0.9",
+    "repo": "zeek"
+  }
+]
