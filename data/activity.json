@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-07-23",
+    "date": "2026-07-27",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.50.2",
+    "ref": "v23.50.3",
     "repo": "openvas-scanner"
   },
   {
