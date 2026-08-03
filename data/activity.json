@@ -28,10 +28,10 @@
     "repo": "sliver"
   },
   {
-    "date": "2026-03-03",
+    "date": "2026-07-30",
     "kind": "release",
     "owner": "Checkmarx",
-    "ref": "v2.1.20",
+    "ref": "v2.1.21",
     "repo": "kics"
   },
   {
@@ -42,17 +42,17 @@
     "repo": "cdxgen"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-31",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.1.200",
+    "ref": "3.1.305",
     "repo": "django-DefectDojo"
   },
   {
-    "date": "2026-07-20",
+    "date": "2026-07-30",
     "kind": "release",
     "owner": "DependencyTrack",
-    "ref": "5.0.3",
+    "ref": "5.0.4",
     "repo": "dependency-track"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-28",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260722.0",
+    "ref": "7.260728.0",
     "repo": "opencti"
   },
   {
@@ -196,10 +196,10 @@
     "repo": "sonarqube"
   },
   {
-    "date": "2026-07-07",
+    "date": "2026-07-29",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v9.4.0",
+    "ref": "v9.5.1",
     "repo": "BloodHound"
   },
   {
@@ -245,10 +245,10 @@
     "repo": "velociraptor"
   },
   {
-    "date": "2025-10-30",
+    "date": "2026-07-28",
     "kind": "release",
     "owner": "VirusTotal",
-    "ref": "v4.5.5",
+    "ref": "v4.5.8",
     "repo": "yara"
   },
   {
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-28",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.116.0",
+    "ref": "v0.116.1",
     "repo": "grype"
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-07-28",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.49.0",
+    "ref": "v1.50.0",
     "repo": "syft"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-08-02",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.8",
+    "ref": "3.3.9",
     "repo": "checkov"
   },
   {
@@ -462,10 +462,10 @@
     "repo": "frida"
   },
   {
-    "date": "2026-06-09",
+    "date": "2026-07-30",
     "kind": "release",
     "owner": "future-architect",
-    "ref": "v0.39.3",
+    "ref": "v0.40.1",
     "repo": "vuls"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-07-30",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.50.3",
+    "ref": "v23.50.8",
     "repo": "openvas-scanner"
   },
   {
@@ -518,10 +518,10 @@
     "repo": "knock"
   },
   {
-    "date": "2026-06-27",
+    "date": "2026-08-02",
     "kind": "release",
     "owner": "hahwul",
-    "ref": "v3.1.2",
+    "ref": "v3.2.0",
     "repo": "dalfox"
   },
   {
@@ -679,7 +679,7 @@
     "repo": "ScoutSuite"
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-07-31",
     "kind": "commit",
     "owner": "nmap",
     "ref": null,
@@ -700,10 +700,10 @@
     "repo": "osquery"
   },
   {
-    "date": "2026-05-27",
+    "date": "2026-08-02",
     "kind": "release",
     "owner": "ossec",
-    "ref": "4.1.0",
+    "ref": "4.2.0",
     "repo": "ossec-hids"
   },
   {
@@ -784,10 +784,10 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-07-26",
+    "date": "2026-08-02",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.2.91",
+    "ref": "v0.2.92",
     "repo": "wappalyzergo"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-07-22",
+    "date": "2026-07-28",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.171.0",
+    "ref": "v1.172.0",
     "repo": "semgrep"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-07-27",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1306.1",
+    "ref": "v1.1306.2",
     "repo": "cli"
   },
   {
@@ -966,10 +966,10 @@
     "repo": "sqlmap"
   },
   {
-    "date": "2026-02-11",
+    "date": "2026-07-31",
     "kind": "release",
     "owner": "sullo",
-    "ref": "2.6.0",
+    "ref": "2.6.1",
     "repo": "nikto"
   },
   {
@@ -1050,17 +1050,17 @@
     "repo": "volatility3"
   },
   {
-    "date": "2026-05-13",
+    "date": "2026-07-27",
     "kind": "release",
     "owner": "wapiti-scanner",
-    "ref": "3.3.0",
+    "ref": "3.3.1",
     "repo": "wapiti"
   },
   {
-    "date": "2026-07-03",
+    "date": "2026-07-30",
     "kind": "release",
     "owner": "wazuh",
-    "ref": "v4.14.6",
+    "ref": "v4.14.7",
     "repo": "wazuh"
   },
   {
