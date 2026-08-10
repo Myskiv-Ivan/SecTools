@@ -119,7 +119,7 @@ Orchestrate scanner findings, triage, and reporting.
 
 | Tool | Description | License | Activity |
 |---|---|---|---|
-| **DefectDojo**<br>[GitHub](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps platform: report import, triage, metrics, SLA | 🟢 | [2026-07-31](https://github.com/DefectDojo/django-DefectDojo/releases)<br>`release` |
+| **DefectDojo**<br>[GitHub](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps platform: report import, triage, metrics, SLA | 🟢 | [2026-08-03](https://github.com/DefectDojo/django-DefectDojo/releases)<br>`release` |
 | **Faraday**<br>[GitHub](https://github.com/infobyte/faraday) | Collaborative pentest IDE / vulnerability management | 🟢 | [2026-07-23](https://github.com/infobyte/faraday/releases)<br>`release` |
 | **ArcherySec**<br>[GitHub](https://github.com/archerysec/archerysec) | Vulnerability assessment & management with scanner integrations | 🟢 | [2024-05-31](https://github.com/archerysec/archerysec/releases)<br>`release` |
 | **reNgine**<br>[GitHub](https://github.com/yogeshojha/rengine) | Automated recon + vulnerability management with web UI | 🟢 | [2024-09-07](https://github.com/yogeshojha/rengine/releases)<br>`release` |
@@ -137,8 +137,8 @@ Orchestrate scanner findings, triage, and reporting.
 | **BeEF**<br>[GitHub](https://github.com/beefproject/beef) | Exploit Framework | Browser Exploitation Framework | 🟢 | [2025-10-24](https://github.com/beefproject/beef/releases)<br>`release` |
 | **Sliver**<br>[GitHub](https://github.com/BishopFox/sliver) | C2 | Open-source adversary emulation / C2 framework | 🟢 | [2026-02-24](https://github.com/BishopFox/sliver/releases)<br>`release` |
 | **Havoc**<br>[GitHub](https://github.com/HavocFramework/Havoc) | C2 | Modern post-exploitation command and control | 🟢 | [2025-12-18](https://github.com/HavocFramework/Havoc/commits)<br>`commit` |
-| **MobSF**<br>[GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile | Static and dynamic analysis for Android / iOS | 🟢 | [2026-07-06](https://github.com/MobSF/Mobile-Security-Framework-MobSF/releases)<br>`release` |
-| **Frida**<br>[GitHub](https://github.com/frida/frida) | Dynamic Instrumentation | Dynamic instrumentation toolkit for apps | 🟢 | [2026-07-21](https://github.com/frida/frida/releases)<br>`release` |
+| **MobSF**<br>[GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile | Static and dynamic analysis for Android / iOS | 🟢 | [2026-08-10](https://github.com/MobSF/Mobile-Security-Framework-MobSF/releases)<br>`release` |
+| **Frida**<br>[GitHub](https://github.com/frida/frida) | Dynamic Instrumentation | Dynamic instrumentation toolkit for apps | 🟢 | [2026-08-05](https://github.com/frida/frida/releases)<br>`release` |
 | **Objection**<br>[GitHub](https://github.com/sensepost/objection) | Mobile | Runtime mobile exploration powered by Frida | 🟢 | [2026-06-02](https://github.com/sensepost/objection/releases)<br>`release` |
 | **RedTeam C# Scripts**<br>[GitHub](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) | Red Team | Collection of C# scripts for red team operations | 🟢 | [2021-11-16](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts/commits)<br>`commit` |
 | **Atomic Red Team**<br>[GitHub](https://github.com/redcanaryco/atomic-red-team) | Adversary Emulation | Small, focused tests mapped to ATT&CK techniques | 🟢 | [2026-07-20](https://github.com/redcanaryco/atomic-red-team/commits)<br>`commit` |
@@ -168,7 +168,7 @@ Find vulnerabilities in source code without running the application.
 |---|---|---|---|---|
 | **Semgrep**<br>[GitHub](https://github.com/semgrep/semgrep) | 30+ languages | Fast pattern-based SAST with YAML rules; CI-friendly | 🟡 | [2026-07-28](https://github.com/semgrep/semgrep/releases)<br>`release` |
 | **CodeQL**<br>[codeql.github.com](https://codeql.github.com/) | Multilang | Semantic code analysis from GitHub (query-as-code) | 🟡 | — |
-| **Bearer**<br>[GitHub](https://github.com/Bearer/bearer) | JS/TS, Ruby, PHP, Java, Go, Python | SAST focused on data flows and privacy | 🟢 | [2026-05-18](https://github.com/Bearer/bearer/releases)<br>`release` |
+| **Bearer**<br>[GitHub](https://github.com/Bearer/bearer) | JS/TS, Ruby, PHP, Java, Go, Python | SAST focused on data flows and privacy | 🟢 | [2026-08-03](https://github.com/Bearer/bearer/releases)<br>`release` |
 | **Bandit**<br>[GitHub](https://github.com/PyCQA/bandit) | Python | Common security issues in Python | 🟢 | [2026-02-25](https://github.com/PyCQA/bandit/releases)<br>`release` |
 | **Brakeman**<br>[GitHub](https://github.com/presidentbeef/brakeman) | Ruby on Rails | Rails-focused static security scanner | 🟢 | [2026-06-12](https://github.com/presidentbeef/brakeman/releases)<br>`release` |
 | **Find Security Bugs**<br>[GitHub](https://github.com/find-sec-bugs/find-sec-bugs) | Java, Android, Scala, Kotlin, Groovy | SpotBugs plugin for web / Android security | 🟢 | [2025-06-17](https://github.com/find-sec-bugs/find-sec-bugs/releases)<br>`release` |
@@ -195,15 +195,15 @@ Dynamic and interactive analysis of running applications.
 | Tool | Type | Description | License | Activity |
 |---|---|---|---|---|
 | **OWASP ZAP**<br>[GitHub](https://github.com/zaproxy/zaproxy) | DAST | Free web proxy and automated scanner from OWASP | 🟢 | [2025-12-15](https://github.com/zaproxy/zaproxy/releases)<br>`release` |
-| **Nuclei**<br>[GitHub](https://github.com/projectdiscovery/nuclei) | DAST | Fast YAML-template scanner for CVE / misconfig (HTTP, DNS, TCP…) | 🟢 | [2026-07-06](https://github.com/projectdiscovery/nuclei/releases)<br>`release` |
+| **Nuclei**<br>[GitHub](https://github.com/projectdiscovery/nuclei) | DAST | Fast YAML-template scanner for CVE / misconfig (HTTP, DNS, TCP…) | 🟢 | [2026-08-08](https://github.com/projectdiscovery/nuclei/releases)<br>`release` |
 | **Nikto**<br>[GitHub](https://github.com/sullo/nikto) | DAST | Classic web scanner for dangerous files and misconfigurations | 🟢 | [2026-07-31](https://github.com/sullo/nikto/releases)<br>`release` |
 | **Wapiti**<br>[GitHub](https://github.com/wapiti-scanner/wapiti) | DAST | Black-box web scanner (XSS, SQLi, and more) | 🟢 | [2026-07-27](https://github.com/wapiti-scanner/wapiti/releases)<br>`release` |
 | **w3af**<br>[GitHub](https://github.com/andresriancho/w3af) | DAST | Web Application Attack and Audit Framework | 🟢 | [2015-04-07](https://github.com/andresriancho/w3af/releases)<br>`release` |
 | **Dalfox**<br>[GitHub](https://github.com/hahwul/dalfox) | XSS | Parameter analysis and XSS scanning / exploitation helper | 🟢 | [2026-08-02](https://github.com/hahwul/dalfox/releases)<br>`release` |
 | **Commix**<br>[GitHub](https://github.com/commixproject/commix) | Command Injection | Automated OS command injection detection and exploitation | 🟢 | [2025-12-20](https://github.com/commixproject/commix/releases)<br>`release` |
 | **jwt_tool**<br>[GitHub](https://github.com/ticarpi/jwt_tool) | API / Auth | Toolkit for testing, forging, and attacking JWTs | 🟢 | [2025-05-01](https://github.com/ticarpi/jwt_tool/releases)<br>`release` |
-| **Snyk**<br>[GitHub](https://github.com/snyk/cli) | DAST / SCA | Scan code, dependencies, containers, and IaC | 🟡 | [2026-07-27](https://github.com/snyk/cli/releases)<br>`release` |
-| **SonarQube**<br>[GitHub](https://github.com/SonarSource/sonarqube) | SAST / Quality | Code quality + security hotspots | 🟡 | [2026-07-08](https://github.com/SonarSource/sonarqube/releases)<br>`release` |
+| **Snyk**<br>[GitHub](https://github.com/snyk/cli) | DAST / SCA | Scan code, dependencies, containers, and IaC | 🟡 | [2026-08-06](https://github.com/snyk/cli/releases)<br>`release` |
+| **SonarQube**<br>[GitHub](https://github.com/SonarSource/sonarqube) | SAST / Quality | Code quality + security hotspots | 🟡 | [2026-08-05](https://github.com/SonarSource/sonarqube/releases)<br>`release` |
 | **Contrast Security**<br>[contrastsecurity.com](https://www.contrastsecurity.com/) | IAST | Agent-based interactive analysis at runtime | 🔴 | — |
 | **PT Application Inspector**<br>[ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | SAST/DAST | Commercial application analyzer (Positive Technologies) | 🔴 | — |
 | **CloudSploit**<br>[GitHub](https://github.com/aquasecurity/cloudsploit) | Cloud | Misconfiguration checks for AWS / Azure / GCP / Oracle | 🟢 | [2024-09-24](https://github.com/aquasecurity/cloudsploit/releases)<br>`release` |
@@ -217,9 +217,9 @@ Dependency and infrastructure-as-code analysis.
 
 | Tool | Focus | Description | License | Activity |
 |---|---|---|---|---|
-| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | SCA + IaC + Containers | All-in-one: deps, images, IaC, secrets | 🟢 | [2026-06-30](https://github.com/aquasecurity/trivy/releases)<br>`release` |
+| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | SCA + IaC + Containers | All-in-one: deps, images, IaC, secrets | 🟢 | [2026-08-03](https://github.com/aquasecurity/trivy/releases)<br>`release` |
 | **Grype**<br>[GitHub](https://github.com/anchore/grype) | SCA / Containers | Vulnerability scanner for images and filesystems | 🟢 | [2026-07-28](https://github.com/anchore/grype/releases)<br>`release` |
-| **OSV-Scanner**<br>[GitHub](https://github.com/google/osv-scanner) | SCA | Scanner powered by [OSV.dev](https://osv.dev) (Google) | 🟢 | [2026-06-18](https://github.com/google/osv-scanner/releases)<br>`release` |
+| **OSV-Scanner**<br>[GitHub](https://github.com/google/osv-scanner) | SCA | Scanner powered by [OSV.dev](https://osv.dev) (Google) | 🟢 | [2026-08-07](https://github.com/google/osv-scanner/releases)<br>`release` |
 | **Dependency-Track**<br>[GitHub](https://github.com/DependencyTrack/dependency-track) | SCA Platform | Continuous analysis platform for SBOM / dependencies | 🟢 | [2026-07-30](https://github.com/DependencyTrack/dependency-track/releases)<br>`release` |
 | **OWASP Dependency-Check**<br>[GitHub](https://github.com/jeremylong/DependencyCheck) | SCA | Match dependencies against known CVE | 🟢 | [2025-02-17](https://github.com/jeremylong/DependencyCheck/releases)<br>`release` |
 | **Checkov**<br>[GitHub](https://github.com/bridgecrewio/checkov) | IaC | Policy-as-code for Terraform, K8s, CloudFormation, Docker | 🟢 | [2026-08-02](https://github.com/bridgecrewio/checkov/releases)<br>`release` |
@@ -237,7 +237,7 @@ Software Bill of Materials generation.
 |---|---|---|---|---|
 | **Syft**<br>[GitHub](https://github.com/anchore/syft) | SPDX, CycloneDX | Generate SBOM from images, directories, and manifests | 🟢 | [2026-07-28](https://github.com/anchore/syft/releases)<br>`release` |
 | **cdxgen**<br>[GitHub](https://github.com/CycloneDX/cdxgen) | CycloneDX | Universal CycloneDX SBOM generator | 🟢 | [2026-07-23](https://github.com/CycloneDX/cdxgen/releases)<br>`release` |
-| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | SPDX, CycloneDX | SBOM as part of scanning | 🟢 | [2026-06-30](https://github.com/aquasecurity/trivy/releases)<br>`release` |
+| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | SPDX, CycloneDX | SBOM as part of scanning | 🟢 | [2026-08-03](https://github.com/aquasecurity/trivy/releases)<br>`release` |
 
 ---
 
@@ -258,10 +258,10 @@ Network, web, and general-purpose vulnerability scanners.
 
 | Tool | Type | Description | License | Activity |
 |---|---|---|---|---|
-| **Nmap**<br>[GitHub](https://github.com/nmap/nmap) | Network | Reference network discovery / port scanner | 🟢 | [2026-07-31](https://github.com/nmap/nmap/commits)<br>`commit` |
+| **Nmap**<br>[GitHub](https://github.com/nmap/nmap) | Network | Reference network discovery / port scanner | 🟢 | [2026-08-05](https://github.com/nmap/nmap/tags)<br>`tag` |
 | **Masscan**<br>[GitHub](https://github.com/robertdavidgraham/masscan) | Network | Asynchronous ultra-fast port scanner | 🟢 | [2021-01-31](https://github.com/robertdavidgraham/masscan/releases)<br>`release` |
 | **RustScan**<br>[GitHub](https://github.com/RustScan/RustScan) | Network | Extremely fast port scanner that pipes into Nmap | 🟢 | [2025-02-23](https://github.com/RustScan/RustScan/releases)<br>`release` |
-| **OpenVAS / Greenbone**<br>[GitHub](https://github.com/greenbone/openvas-scanner) | Network VA | Full vulnerability assessment stack | 🟢 | [2026-07-30](https://github.com/greenbone/openvas-scanner/releases)<br>`release` |
+| **OpenVAS / Greenbone**<br>[GitHub](https://github.com/greenbone/openvas-scanner) | Network VA | Full vulnerability assessment stack | 🟢 | [2026-08-05](https://github.com/greenbone/openvas-scanner/releases)<br>`release` |
 | **Nessus**<br>[tenable.com](https://www.tenable.com/products/nessus) | Network VA | Commercial VA scanner by Tenable | 🔴 | — |
 | **InsightVM (Nexpose)**<br>[rapid7.com](https://www.rapid7.com/products/insightvm/) | Network VA | Vulnerability management by Rapid7 | 🔴 | — |
 | **Tsunami**<br>[GitHub](https://github.com/google/tsunami-security-scanner) | Network | Modular high-severity scanner by Google | 🟢 | [2026-02-19](https://github.com/google/tsunami-security-scanner/releases)<br>`release` |
@@ -271,9 +271,9 @@ Network, web, and general-purpose vulnerability scanners.
 | **NoSQLMap**<br>[GitHub](https://github.com/codingo/NoSQLMap) | NoSQL | Audit and exploit NoSQL injection | 🟢 | [2016-01-11](https://github.com/codingo/NoSQLMap/releases)<br>`release` |
 | **WhatWeb**<br>[GitHub](https://github.com/urbanadventurer/WhatWeb) | Fingerprint | Identify CMS, frameworks, and site tech | 🟢 | [2026-04-02](https://github.com/urbanadventurer/WhatWeb/releases)<br>`release` |
 | **Wappalyzer**<br>[wappalyzer.com](https://www.wappalyzer.com/) | Fingerprint | Identify technologies used on websites | 🟡 | — |
-| **wappalyzergo**<br>[GitHub](https://github.com/projectdiscovery/wappalyzergo) | Fingerprint | Go port of Wappalyzer fingerprinting for CLI / pipelines | 🟢 | [2026-08-02](https://github.com/projectdiscovery/wappalyzergo/releases)<br>`release` |
+| **wappalyzergo**<br>[GitHub](https://github.com/projectdiscovery/wappalyzergo) | Fingerprint | Go port of Wappalyzer fingerprinting for CLI / pipelines | 🟢 | [2026-08-09](https://github.com/projectdiscovery/wappalyzergo/releases)<br>`release` |
 | **Xray**<br>[GitHub](https://github.com/chaitin/xray) | Web | Passive / active web scanner (Chaitin) | 🟢 | [2024-07-19](https://github.com/chaitin/xray/releases)<br>`release` |
-| **Osmedeus**<br>[GitHub](https://github.com/j3ssie/Osmedeus) | Orchestration | Workflow engine for automated recon / scan | 🟢 | [2026-05-29](https://github.com/j3ssie/Osmedeus/releases)<br>`release` |
+| **Osmedeus**<br>[GitHub](https://github.com/j3ssie/Osmedeus) | Orchestration | Workflow engine for automated recon / scan | 🟢 | [2026-08-08](https://github.com/j3ssie/Osmedeus/releases)<br>`release` |
 | **OneForAll**<br>[GitHub](https://github.com/shmilylty/OneForAll) | Subdomain / Recon | Powerful subdomain collection | 🟢 | [2022-07-10](https://github.com/shmilylty/OneForAll/releases)<br>`release` |
 | **Sn1per**<br>[GitHub](https://github.com/1N3/Sn1per) | Pentest Automation | Automated pentest framework | 🟡 | [2023-07-29](https://github.com/1N3/Sn1per/releases)<br>`release` |
 | **AutoRecon**<br>[GitHub](https://github.com/Tib3rius/AutoRecon) | Recon | Multi-threaded network recon for CTF / pentest | 🟢 | [2025-11-16](https://github.com/Tib3rius/AutoRecon/commits)<br>`commit` |
@@ -294,7 +294,7 @@ Network, web, and general-purpose vulnerability scanners.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **Amass**<br>[GitHub](https://github.com/owasp-amass/amass) | OWASP: deep subdomain enumeration and attack-surface mapping | 🟢 | [2026-04-07](https://github.com/owasp-amass/amass/releases)<br>`release` |
-| **subfinder**<br>[GitHub](https://github.com/projectdiscovery/subfinder) | Passive subdomain discovery (ProjectDiscovery) | 🟢 | [2026-04-27](https://github.com/projectdiscovery/subfinder/releases)<br>`release` |
+| **subfinder**<br>[GitHub](https://github.com/projectdiscovery/subfinder) | Passive subdomain discovery (ProjectDiscovery) | 🟢 | [2026-08-05](https://github.com/projectdiscovery/subfinder/releases)<br>`release` |
 | **httpx**<br>[GitHub](https://github.com/projectdiscovery/httpx) | Fast HTTP probing / tech detection | 🟢 | [2026-07-09](https://github.com/projectdiscovery/httpx/releases)<br>`release` |
 | **dnsx**<br>[GitHub](https://github.com/projectdiscovery/dnsx) | DNS toolkit for resolve and enumeration | 🟢 | [2026-07-16](https://github.com/projectdiscovery/dnsx/releases)<br>`release` |
 | **Chaos**<br>[GitHub](https://github.com/projectdiscovery/chaos-client) | ProjectDiscovery DNS dataset client for passive recon | 🟢 | [2024-04-22](https://github.com/projectdiscovery/chaos-client/releases)<br>`release` |
@@ -306,7 +306,7 @@ Network, web, and general-purpose vulnerability scanners.
 | **subDomainsBrute**<br>[GitHub](https://github.com/lijiejie/subDomainsBrute) | Multi-threaded subdomain brute-force | 🟢 | [2022-06-05](https://github.com/lijiejie/subDomainsBrute/releases)<br>`release` |
 | **SubDomain3**<br>[GitHub](https://github.com/yanxiu0614/subdomain3) | High-speed subdomain scanner | 🟢 | [2020-01-20](https://github.com/yanxiu0614/subdomain3/releases)<br>`release` |
 | **domained**<br>[GitHub](https://github.com/TypeError/domained) | Wrapper around multiple subdomain tools | 🟢 | [2021-04-11](https://github.com/TypeError/domained/commits)<br>`commit` |
-| **katana**<br>[GitHub](https://github.com/projectdiscovery/katana) | Next-gen crawling / spidering | 🟢 | [2026-05-05](https://github.com/projectdiscovery/katana/releases)<br>`release` |
+| **katana**<br>[GitHub](https://github.com/projectdiscovery/katana) | Next-gen crawling / spidering | 🟢 | [2026-08-05](https://github.com/projectdiscovery/katana/releases)<br>`release` |
 | **gau**<br>[GitHub](https://github.com/lc/gau) | Fetch known URLs from public sources | 🟢 | [2024-10-28](https://github.com/lc/gau/releases)<br>`release` |
 | **waybackurls**<br>[GitHub](https://github.com/tomnomnom/waybackurls) | Fetch URLs from the Wayback Machine for a domain | 🟢 | [2022-04-05](https://github.com/tomnomnom/waybackurls/releases)<br>`release` |
 | **hakrawler**<br>[GitHub](https://github.com/hakluke/hakrawler) | Simple, fast web crawler for gathering URLs / endpoints | 🟢 | [2022-05-23](https://github.com/hakluke/hakrawler/releases)<br>`release` |
@@ -347,13 +347,13 @@ CSPM, CNAPP-adjacent OSS, and Kubernetes hardening.
 
 | Tool | Focus | Description | License | Activity |
 |---|---|---|---|---|
-| **Prowler**<br>[GitHub](https://github.com/prowler-cloud/prowler) | CSPM | Multi-cloud security assessment (AWS, Azure, GCP, …) | 🟢 | [2026-07-24](https://github.com/prowler-cloud/prowler/releases)<br>`release` |
+| **Prowler**<br>[GitHub](https://github.com/prowler-cloud/prowler) | CSPM | Multi-cloud security assessment (AWS, Azure, GCP, …) | 🟢 | [2026-08-06](https://github.com/prowler-cloud/prowler/releases)<br>`release` |
 | **ScoutSuite**<br>[GitHub](https://github.com/nccgroup/ScoutSuite) | CSPM | Multi-cloud security auditing tool | 🟢 | [2024-05-10](https://github.com/nccgroup/ScoutSuite/releases)<br>`release` |
 | **CloudMapper**<br>[GitHub](https://github.com/duo-labs/cloudmapper) | AWS | Network visualization and inventory for AWS accounts | 🟢 | [2021-11-04](https://github.com/duo-labs/cloudmapper/releases)<br>`release` |
-| **kube-bench**<br>[GitHub](https://github.com/aquasecurity/kube-bench) | Kubernetes | CIS Kubernetes Benchmark checks | 🟢 | [2026-06-01](https://github.com/aquasecurity/kube-bench/releases)<br>`release` |
+| **kube-bench**<br>[GitHub](https://github.com/aquasecurity/kube-bench) | Kubernetes | CIS Kubernetes Benchmark checks | 🟢 | [2026-08-05](https://github.com/aquasecurity/kube-bench/releases)<br>`release` |
 | **kube-hunter**<br>[GitHub](https://github.com/aquasecurity/kube-hunter) | Kubernetes | Hunt for security weaknesses in K8s clusters | 🟢 | [2022-05-18](https://github.com/aquasecurity/kube-hunter/releases)<br>`release` |
 | **Falco**<br>[GitHub](https://github.com/falcosecurity/falco) | Runtime | Cloud-native runtime security / threat detection | 🟢 | [2026-06-11](https://github.com/falcosecurity/falco/releases)<br>`release` |
-| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | Containers / IaC | Image, filesystem, and IaC vulnerability scanner | 🟢 | [2026-06-30](https://github.com/aquasecurity/trivy/releases)<br>`release` |
+| **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | Containers / IaC | Image, filesystem, and IaC vulnerability scanner | 🟢 | [2026-08-03](https://github.com/aquasecurity/trivy/releases)<br>`release` |
 | **Docker Bench**<br>[GitHub](https://github.com/docker/docker-bench-security) | Containers | CIS Docker Benchmark script | 🟢 | [2023-12-20](https://github.com/docker/docker-bench-security/releases)<br>`release` |
 | **Orca Security**<br>[orca.security](https://orca.security/) | CNAPP | Commercial agentless cloud security platform | 🔴 | — |
 | **Wiz**<br>[wiz.io](https://www.wiz.io/) | CNAPP | Commercial cloud security platform | 🔴 | — |
@@ -396,7 +396,7 @@ CSPM, CNAPP-adjacent OSS, and Kubernetes hardening.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **MISP**<br>[GitHub](https://github.com/MISP/MISP) | Open-source threat intelligence sharing platform | 🟢 | [2026-07-13](https://github.com/MISP/MISP/releases)<br>`release` |
-| **OpenCTI**<br>[GitHub](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence platform | 🟢 | [2026-07-28](https://github.com/OpenCTI-Platform/opencti/releases)<br>`release` |
+| **OpenCTI**<br>[GitHub](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence platform | 🟢 | [2026-08-07](https://github.com/OpenCTI-Platform/opencti/releases)<br>`release` |
 | **OpenTAXII**<br>[GitHub](https://github.com/eclecticiq/OpenTAXII) | TAXII server implementation for CTI exchange | 🟢 | [2026-01-05](https://github.com/eclecticiq/OpenTAXII/releases)<br>`release` |
 | **YARA**<br>[GitHub](https://github.com/VirusTotal/yara) | Pattern-matching for malware researchers | 🟢 | [2026-07-28](https://github.com/VirusTotal/yara/releases)<br>`release` |
 | **Sigma**<br>[GitHub](https://github.com/SigmaHQ/sigma) | Generic signature format for SIEM systems | 🟢 | [2026-07-09](https://github.com/SigmaHQ/sigma/releases)<br>`release` |
@@ -426,7 +426,7 @@ Credential and leak monitoring / digital risk protection lookups.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **Ghidra**<br>[GitHub](https://github.com/NationalSecurityAgency/ghidra) | NSA open-source software reverse engineering suite | 🟢 | [2026-06-05](https://github.com/NationalSecurityAgency/ghidra/releases)<br>`release` |
-| **radare2**<br>[GitHub](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework | 🟢 | [2026-06-23](https://github.com/radareorg/radare2/releases)<br>`release` |
+| **radare2**<br>[GitHub](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework | 🟢 | [2026-08-07](https://github.com/radareorg/radare2/releases)<br>`release` |
 | **Cutter**<br>[GitHub](https://github.com/rizinorg/cutter) | Free GUI for Rizin / reverse engineering | 🟢 | [2026-06-30](https://github.com/rizinorg/cutter/releases)<br>`release` |
 | **Binary Ninja**<br>[binary.ninja](https://binary.ninja/) | Commercial reverse engineering platform | 🔴 | — |
 | **IDA**<br>[hex-rays.com](https://hex-rays.com/ida-pro/) | Commercial industry-standard disassembler / debugger | 🔴 | — |

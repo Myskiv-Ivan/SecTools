@@ -14,10 +14,10 @@
     "repo": "arachni"
   },
   {
-    "date": "2026-05-18",
+    "date": "2026-08-03",
     "kind": "release",
     "owner": "Bearer",
-    "ref": "v2.0.2",
+    "ref": "v2.1.0",
     "repo": "bearer"
   },
   {
@@ -42,10 +42,10 @@
     "repo": "cdxgen"
   },
   {
-    "date": "2026-07-31",
+    "date": "2026-08-03",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.1.305",
+    "ref": "3.2.0",
     "repo": "django-DefectDojo"
   },
   {
@@ -91,10 +91,10 @@
     "repo": "MISP"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-08-10",
     "kind": "release",
     "owner": "MobSF",
-    "ref": "v4.5.1",
+    "ref": "v4.5.2",
     "repo": "Mobile-Security-Framework-MobSF"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-07-28",
+    "date": "2026-08-07",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260728.0",
+    "ref": "7.260807.0",
     "repo": "opencti"
   },
   {
@@ -189,10 +189,10 @@
     "repo": "sigma"
   },
   {
-    "date": "2026-07-08",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "SonarSource",
-    "ref": "26.7.0.124771",
+    "ref": "26.8.0.126808",
     "repo": "sonarqube"
   },
   {
@@ -294,10 +294,10 @@
     "repo": "cloudsploit"
   },
   {
-    "date": "2026-06-01",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.15.6",
+    "ref": "v0.16.0",
     "repo": "kube-bench"
   },
   {
@@ -315,10 +315,10 @@
     "repo": "tfsec"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-08-03",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.72.0",
+    "ref": "v0.73.0",
     "repo": "trivy"
   },
   {
@@ -455,10 +455,10 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-07-21",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.16.4",
+    "ref": "17.17.0",
     "repo": "frida"
   },
   {
@@ -490,10 +490,10 @@
     "repo": "golismero"
   },
   {
-    "date": "2026-06-18",
+    "date": "2026-08-07",
     "kind": "release",
     "owner": "google",
-    "ref": "v2.4.0",
+    "ref": "v2.5.0",
     "repo": "osv-scanner"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.50.8",
+    "ref": "v23.50.14",
     "repo": "openvas-scanner"
   },
   {
@@ -567,10 +567,10 @@
     "repo": "insider"
   },
   {
-    "date": "2026-05-29",
+    "date": "2026-08-08",
     "kind": "release",
     "owner": "j3ssie",
-    "ref": "v5.0.3",
+    "ref": "v5.1.0",
     "repo": "Osmedeus"
   },
   {
@@ -679,10 +679,10 @@
     "repo": "ScoutSuite"
   },
   {
-    "date": "2026-07-31",
-    "kind": "commit",
+    "date": "2026-08-05",
+    "kind": "tag",
     "owner": "nmap",
-    "ref": null,
+    "ref": "v7.991",
     "repo": "nmap"
   },
   {
@@ -763,38 +763,38 @@
     "repo": "httpx"
   },
   {
-    "date": "2026-05-05",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v1.6.1",
+    "ref": "v1.7.0",
     "repo": "katana"
   },
   {
-    "date": "2026-07-06",
+    "date": "2026-08-08",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v3.11.0",
+    "ref": "v3.11.1",
     "repo": "nuclei"
   },
   {
-    "date": "2026-04-27",
+    "date": "2026-08-05",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v2.14.0",
+    "ref": "v2.15.0",
     "repo": "subfinder"
   },
   {
-    "date": "2026-08-02",
+    "date": "2026-08-09",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.2.92",
+    "ref": "v0.2.93",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-08-06",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.36.0",
+    "ref": "5.38.0",
     "repo": "prowler"
   },
   {
@@ -805,10 +805,10 @@
     "repo": "puma-scan"
   },
   {
-    "date": "2026-06-23",
+    "date": "2026-08-07",
     "kind": "release",
     "owner": "radareorg",
-    "ref": "6.1.8",
+    "ref": "6.2.0",
     "repo": "radare2"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-07-27",
+    "date": "2026-08-06",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1306.2",
+    "ref": "v1.1306.3",
     "repo": "cli"
   },
   {
