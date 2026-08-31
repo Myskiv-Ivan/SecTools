@@ -14,17 +14,17 @@
     "repo": "arachni"
   },
   {
-    "date": "2026-08-03",
+    "date": "2026-08-24",
     "kind": "release",
     "owner": "Bearer",
-    "ref": "v2.1.0",
+    "ref": "v2.1.1",
     "repo": "bearer"
   },
   {
-    "date": "2026-02-24",
+    "date": "2026-08-28",
     "kind": "release",
     "owner": "BishopFox",
-    "ref": "v1.7.3",
+    "ref": "v1.7.6",
     "repo": "sliver"
   },
   {
@@ -42,24 +42,24 @@
     "repo": "cdxgen"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-08-24",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.2.201",
+    "ref": "3.2.300",
     "repo": "django-DefectDojo"
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-08-27",
     "kind": "release",
     "owner": "DependencyTrack",
-    "ref": "5.0.4",
+    "ref": "5.1.0",
     "repo": "dependency-track"
   },
   {
-    "date": "2026-06-25",
+    "date": "2026-08-25",
     "kind": "release",
     "owner": "Ericsson",
-    "ref": "v6.28.2",
+    "ref": "v6.28.3",
     "repo": "codechecker"
   },
   {
@@ -84,10 +84,10 @@
     "repo": "Havoc"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-08-25",
     "kind": "release",
     "owner": "MISP",
-    "ref": "v2.5.44",
+    "ref": "v2.5.45",
     "repo": "MISP"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-08-17",
+    "date": "2026-08-28",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260817.0",
+    "ref": "7.260828.0",
     "repo": "opencti"
   },
   {
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-08-10",
+    "date": "2026-08-27",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.117.0",
+    "ref": "v0.118.0",
     "repo": "grype"
   },
   {
-    "date": "2026-08-10",
+    "date": "2026-08-27",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.51.0",
+    "ref": "v1.51.1",
     "repo": "syft"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-08-20",
+    "date": "2026-08-30",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.13",
+    "ref": "3.3.16",
     "repo": "checkov"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-08-20",
+    "date": "2026-08-31",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.50.20",
+    "ref": "v23.50.24",
     "repo": "openvas-scanner"
   },
   {
@@ -518,10 +518,10 @@
     "repo": "knock"
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-31",
     "kind": "release",
     "owner": "hahwul",
-    "ref": "v3.2.1",
+    "ref": "v3.2.2",
     "repo": "dalfox"
   },
   {
@@ -623,17 +623,17 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-06-16",
+    "date": "2026-08-25",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-22.1.8",
+    "ref": "llvmorg-23.1.0",
     "repo": "llvm-project"
   },
   {
-    "date": "2026-05-12",
+    "date": "2026-07-20",
     "kind": "release",
     "owner": "log2timeline",
-    "ref": "20260512",
+    "ref": "20260720",
     "repo": "plaso"
   },
   {
@@ -700,10 +700,10 @@
     "repo": "osquery"
   },
   {
-    "date": "2026-08-02",
+    "date": "2026-08-25",
     "kind": "release",
     "owner": "ossec",
-    "ref": "4.2.0",
+    "ref": "4.3.0",
     "repo": "ossec-hids"
   },
   {
@@ -728,10 +728,10 @@
     "repo": "codemodder-python"
   },
   {
-    "date": "2026-06-29",
+    "date": "2026-08-28",
     "kind": "release",
     "owner": "pmd",
-    "ref": "pmd_releases/7.26.0",
+    "ref": "pmd_releases/7.27.0",
     "repo": "pmd"
   },
   {
@@ -749,17 +749,17 @@
     "repo": "chaos-client"
   },
   {
-    "date": "2026-07-16",
+    "date": "2026-08-31",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v1.3.0",
+    "ref": "v1.3.1",
     "repo": "dnsx"
   },
   {
-    "date": "2026-07-09",
+    "date": "2026-08-31",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v1.10.0",
+    "ref": "v1.11.0",
     "repo": "httpx"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-08-23",
+    "date": "2026-08-30",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.2.95",
+    "ref": "v0.2.96",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-08-28",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.39.1",
+    "ref": "5.40.0",
     "repo": "prowler"
   },
   {
@@ -819,7 +819,7 @@
     "repo": "metasploit-framework"
   },
   {
-    "date": "2026-08-17",
+    "date": "2026-08-28",
     "kind": "commit",
     "owner": "redcanaryco",
     "ref": null,
@@ -861,10 +861,10 @@
     "repo": "awesome-security"
   },
   {
-    "date": "2026-07-14",
+    "date": "2026-08-26",
     "kind": "release",
     "owner": "securego",
-    "ref": "v2.28.0",
+    "ref": "v2.29.0",
     "repo": "gosec"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-08-20",
+    "date": "2026-08-26",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.174.0",
+    "ref": "v1.175.0",
     "repo": "semgrep"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-08-13",
+    "date": "2026-08-26",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1306.4",
+    "ref": "v1.1307.0",
     "repo": "cli"
   },
   {
@@ -1015,10 +1015,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-08-14",
+    "date": "2026-08-24",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.97.0",
+    "ref": "v3.97.1",
     "repo": "trufflehog"
   },
   {
