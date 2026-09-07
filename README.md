@@ -119,8 +119,8 @@ Orchestrate scanner findings, triage, and reporting.
 
 | Tool | Description | License | Activity |
 |---|---|---|---|
-| **DefectDojo**<br>[GitHub](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps platform: report import, triage, metrics, SLA | 🟢 | [2026-08-24](https://github.com/DefectDojo/django-DefectDojo/releases)<br>`release` |
-| **Faraday**<br>[GitHub](https://github.com/infobyte/faraday) | Collaborative pentest IDE / vulnerability management | 🟢 | [2026-08-20](https://github.com/infobyte/faraday/releases)<br>`release` |
+| **DefectDojo**<br>[GitHub](https://github.com/DefectDojo/django-DefectDojo) | DevSecOps platform: report import, triage, metrics, SLA | 🟢 | [2026-08-31](https://github.com/DefectDojo/django-DefectDojo/releases)<br>`release` |
+| **Faraday**<br>[GitHub](https://github.com/infobyte/faraday) | Collaborative pentest IDE / vulnerability management | 🟢 | [2026-09-03](https://github.com/infobyte/faraday/releases)<br>`release` |
 | **ArcherySec**<br>[GitHub](https://github.com/archerysec/archerysec) | Vulnerability assessment & management with scanner integrations | 🟢 | [2024-05-31](https://github.com/archerysec/archerysec/releases)<br>`release` |
 | **reNgine**<br>[GitHub](https://github.com/yogeshojha/rengine) | Automated recon + vulnerability management with web UI | 🟢 | [2024-09-07](https://github.com/yogeshojha/rengine/releases)<br>`release` |
 | **Vuls**<br>[GitHub](https://github.com/future-architect/vuls) | Agentless vulnerability scanner for Linux / FreeBSD | 🟢 | [2026-07-30](https://github.com/future-architect/vuls/releases)<br>`release` |
@@ -135,13 +135,13 @@ Orchestrate scanner findings, triage, and reporting.
 | **Metasploit**<br>[GitHub](https://github.com/rapid7/metasploit-framework) | Exploit Framework | Classic exploit, payload, and post-exploitation framework | 🟡 | [2016-01-07](https://github.com/rapid7/metasploit-framework/tags)<br>`tag` |
 | **RouterSploit**<br>[GitHub](https://github.com/threat9/routersploit) | Exploit Framework | Exploits and checks for embedded / network devices | 🟢 | [2018-10-17](https://github.com/threat9/routersploit/releases)<br>`release` |
 | **BeEF**<br>[GitHub](https://github.com/beefproject/beef) | Exploit Framework | Browser Exploitation Framework | 🟢 | [2025-10-24](https://github.com/beefproject/beef/releases)<br>`release` |
-| **Sliver**<br>[GitHub](https://github.com/BishopFox/sliver) | C2 | Open-source adversary emulation / C2 framework | 🟢 | [2026-08-28](https://github.com/BishopFox/sliver/releases)<br>`release` |
+| **Sliver**<br>[GitHub](https://github.com/BishopFox/sliver) | C2 | Open-source adversary emulation / C2 framework | 🟢 | [2026-09-03](https://github.com/BishopFox/sliver/releases)<br>`release` |
 | **Havoc**<br>[GitHub](https://github.com/HavocFramework/Havoc) | C2 | Modern post-exploitation command and control | 🟢 | [2025-12-18](https://github.com/HavocFramework/Havoc/commits)<br>`commit` |
 | **MobSF**<br>[GitHub](https://github.com/MobSF/Mobile-Security-Framework-MobSF) | Mobile | Static and dynamic analysis for Android / iOS | 🟢 | [2026-08-10](https://github.com/MobSF/Mobile-Security-Framework-MobSF/releases)<br>`release` |
 | **Frida**<br>[GitHub](https://github.com/frida/frida) | Dynamic Instrumentation | Dynamic instrumentation toolkit for apps | 🟢 | [2026-08-05](https://github.com/frida/frida/releases)<br>`release` |
 | **Objection**<br>[GitHub](https://github.com/sensepost/objection) | Mobile | Runtime mobile exploration powered by Frida | 🟢 | [2026-06-02](https://github.com/sensepost/objection/releases)<br>`release` |
 | **RedTeam C# Scripts**<br>[GitHub](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts) | Red Team | Collection of C# scripts for red team operations | 🟢 | [2021-11-16](https://github.com/Mr-Un1k0d3r/RedTeamCSharpScripts/commits)<br>`commit` |
-| **Atomic Red Team**<br>[GitHub](https://github.com/redcanaryco/atomic-red-team) | Adversary Emulation | Small, focused tests mapped to ATT&CK techniques | 🟢 | [2026-08-28](https://github.com/redcanaryco/atomic-red-team/commits)<br>`commit` |
+| **Atomic Red Team**<br>[GitHub](https://github.com/redcanaryco/atomic-red-team) | Adversary Emulation | Small, focused tests mapped to ATT&CK techniques | 🟢 | [2026-09-05](https://github.com/redcanaryco/atomic-red-team/commits)<br>`commit` |
 | **CALDERA**<br>[GitHub](https://github.com/mitre/caldera) | Adversary Emulation | Automated adversary emulation platform by MITRE | 🟢 | [2025-04-24](https://github.com/mitre/caldera/releases)<br>`release` |
 
 ---
@@ -153,7 +153,7 @@ Intercept, replay, and mutate HTTP(S) traffic during web assessments.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **Burp Suite**<br>[portswigger.net](https://portswigger.net/burp) | Industry-standard web security testing platform (Community / Pro) | 🟡 | — |
-| **Caido**<br>[caido.io](https://caido.io/) | Modern lightweight web proxy for bug bounty and pentest | 🟡 | [2026-08-22](https://github.com/caido/caido/releases)<br>`release` |
+| **Caido**<br>[caido.io](https://caido.io/) | Modern lightweight web proxy for bug bounty and pentest | 🟡 | [2026-09-04](https://github.com/caido/caido/releases)<br>`release` |
 | **mitmproxy**<br>[GitHub](https://github.com/mitmproxy/mitmproxy) | Interactive TLS-capable intercepting HTTP proxy (CLI + web) | 🟢 | [2026-05-12](https://github.com/mitmproxy/mitmproxy/releases)<br>`release` |
 | **OWASP ZAP**<br>[GitHub](https://github.com/zaproxy/zaproxy) | Free proxy + automated scanner | 🟢 | [2025-12-15](https://github.com/zaproxy/zaproxy/releases)<br>`release` |
 | **WATOBO**<br>[GitHub](https://github.com/siberas/watobo) | Intercepting proxy + scanner for pentests | 🟢 | [2020-05-27](https://github.com/siberas/watobo/releases)<br>`release` |
@@ -166,7 +166,7 @@ Find vulnerabilities in source code without running the application.
 
 | Tool | Languages / scope | Description | License | Activity |
 |---|---|---|---|---|
-| **Semgrep**<br>[GitHub](https://github.com/semgrep/semgrep) | 30+ languages | Fast pattern-based SAST with YAML rules; CI-friendly | 🟡 | [2026-08-26](https://github.com/semgrep/semgrep/releases)<br>`release` |
+| **Semgrep**<br>[GitHub](https://github.com/semgrep/semgrep) | 30+ languages | Fast pattern-based SAST with YAML rules; CI-friendly | 🟡 | [2026-09-01](https://github.com/semgrep/semgrep/releases)<br>`release` |
 | **CodeQL**<br>[codeql.github.com](https://codeql.github.com/) | Multilang | Semantic code analysis from GitHub (query-as-code) | 🟡 | — |
 | **Bearer**<br>[GitHub](https://github.com/Bearer/bearer) | JS/TS, Ruby, PHP, Java, Go, Python | SAST focused on data flows and privacy | 🟢 | [2026-08-24](https://github.com/Bearer/bearer/releases)<br>`release` |
 | **Bandit**<br>[GitHub](https://github.com/PyCQA/bandit) | Python | Common security issues in Python | 🟢 | [2026-02-25](https://github.com/PyCQA/bandit/releases)<br>`release` |
@@ -203,7 +203,7 @@ Dynamic and interactive analysis of running applications.
 | **Commix**<br>[GitHub](https://github.com/commixproject/commix) | Command Injection | Automated OS command injection detection and exploitation | 🟢 | [2025-12-20](https://github.com/commixproject/commix/releases)<br>`release` |
 | **jwt_tool**<br>[GitHub](https://github.com/ticarpi/jwt_tool) | API / Auth | Toolkit for testing, forging, and attacking JWTs | 🟢 | [2025-05-01](https://github.com/ticarpi/jwt_tool/releases)<br>`release` |
 | **Snyk**<br>[GitHub](https://github.com/snyk/cli) | DAST / SCA | Scan code, dependencies, containers, and IaC | 🟡 | [2026-08-26](https://github.com/snyk/cli/releases)<br>`release` |
-| **SonarQube**<br>[GitHub](https://github.com/SonarSource/sonarqube) | SAST / Quality | Code quality + security hotspots | 🟡 | [2026-08-05](https://github.com/SonarSource/sonarqube/releases)<br>`release` |
+| **SonarQube**<br>[GitHub](https://github.com/SonarSource/sonarqube) | SAST / Quality | Code quality + security hotspots | 🟡 | [2026-09-02](https://github.com/SonarSource/sonarqube/releases)<br>`release` |
 | **Contrast Security**<br>[contrastsecurity.com](https://www.contrastsecurity.com/) | IAST | Agent-based interactive analysis at runtime | 🔴 | — |
 | **PT Application Inspector**<br>[ptsecurity.com](https://www.ptsecurity.com/ww-en/products/ai/) | SAST/DAST | Commercial application analyzer (Positive Technologies) | 🔴 | — |
 | **CloudSploit**<br>[GitHub](https://github.com/aquasecurity/cloudsploit) | Cloud | Misconfiguration checks for AWS / Azure / GCP / Oracle | 🟢 | [2024-09-24](https://github.com/aquasecurity/cloudsploit/releases)<br>`release` |
@@ -236,7 +236,7 @@ Software Bill of Materials generation.
 | Tool | Format | Description | License | Activity |
 |---|---|---|---|---|
 | **Syft**<br>[GitHub](https://github.com/anchore/syft) | SPDX, CycloneDX | Generate SBOM from images, directories, and manifests | 🟢 | [2026-08-27](https://github.com/anchore/syft/releases)<br>`release` |
-| **cdxgen**<br>[GitHub](https://github.com/CycloneDX/cdxgen) | CycloneDX | Universal CycloneDX SBOM generator | 🟢 | [2026-08-18](https://github.com/CycloneDX/cdxgen/releases)<br>`release` |
+| **cdxgen**<br>[GitHub](https://github.com/CycloneDX/cdxgen) | CycloneDX | Universal CycloneDX SBOM generator | 🟢 | [2026-09-04](https://github.com/CycloneDX/cdxgen/releases)<br>`release` |
 | **Trivy**<br>[GitHub](https://github.com/aquasecurity/trivy) | SPDX, CycloneDX | SBOM as part of scanning | 🟢 | [2026-08-14](https://github.com/aquasecurity/trivy/releases)<br>`release` |
 
 ---
@@ -246,7 +246,7 @@ Software Bill of Materials generation.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **Gitleaks**<br>[GitHub](https://github.com/gitleaks/gitleaks) | Fast secret detection in git history and filesystem | 🟢 | [2026-03-21](https://github.com/gitleaks/gitleaks/releases)<br>`release` |
-| **TruffleHog**<br>[GitHub](https://github.com/trufflesecurity/trufflehog) | Secret detection with live verification (API keys, etc.) | 🟢 | [2026-08-24](https://github.com/trufflesecurity/trufflehog/releases)<br>`release` |
+| **TruffleHog**<br>[GitHub](https://github.com/trufflesecurity/trufflehog) | Secret detection with live verification (API keys, etc.) | 🟢 | [2026-09-03](https://github.com/trufflesecurity/trufflehog/releases)<br>`release` |
 | **git-secret**<br>[GitHub](https://github.com/sobolevn/git-secret) | Encrypt secrets in git via GPG | 🟢 | [2022-06-05](https://github.com/sobolevn/git-secret/releases)<br>`release` |
 | **detect-secrets**<br>[GitHub](https://github.com/Yelp/detect-secrets) | Enterprise-friendly baseline secret scanner (Yelp) | 🟢 | [2024-05-06](https://github.com/Yelp/detect-secrets/releases)<br>`release` |
 
@@ -271,7 +271,7 @@ Network, web, and general-purpose vulnerability scanners.
 | **NoSQLMap**<br>[GitHub](https://github.com/codingo/NoSQLMap) | NoSQL | Audit and exploit NoSQL injection | 🟢 | [2016-01-11](https://github.com/codingo/NoSQLMap/releases)<br>`release` |
 | **WhatWeb**<br>[GitHub](https://github.com/urbanadventurer/WhatWeb) | Fingerprint | Identify CMS, frameworks, and site tech | 🟢 | [2026-04-02](https://github.com/urbanadventurer/WhatWeb/releases)<br>`release` |
 | **Wappalyzer**<br>[wappalyzer.com](https://www.wappalyzer.com/) | Fingerprint | Identify technologies used on websites | 🟡 | — |
-| **wappalyzergo**<br>[GitHub](https://github.com/projectdiscovery/wappalyzergo) | Fingerprint | Go port of Wappalyzer fingerprinting for CLI / pipelines | 🟢 | [2026-08-30](https://github.com/projectdiscovery/wappalyzergo/releases)<br>`release` |
+| **wappalyzergo**<br>[GitHub](https://github.com/projectdiscovery/wappalyzergo) | Fingerprint | Go port of Wappalyzer fingerprinting for CLI / pipelines | 🟢 | [2026-09-06](https://github.com/projectdiscovery/wappalyzergo/releases)<br>`release` |
 | **Xray**<br>[GitHub](https://github.com/chaitin/xray) | Web | Passive / active web scanner (Chaitin) | 🟢 | [2024-07-19](https://github.com/chaitin/xray/releases)<br>`release` |
 | **Osmedeus**<br>[GitHub](https://github.com/j3ssie/Osmedeus) | Orchestration | Workflow engine for automated recon / scan | 🟢 | [2026-08-08](https://github.com/j3ssie/Osmedeus/releases)<br>`release` |
 | **OneForAll**<br>[GitHub](https://github.com/shmilylty/OneForAll) | Subdomain / Recon | Powerful subdomain collection | 🟢 | [2022-07-10](https://github.com/shmilylty/OneForAll/releases)<br>`release` |
@@ -347,7 +347,7 @@ CSPM, CNAPP-adjacent OSS, and Kubernetes hardening.
 
 | Tool | Focus | Description | License | Activity |
 |---|---|---|---|---|
-| **Prowler**<br>[GitHub](https://github.com/prowler-cloud/prowler) | CSPM | Multi-cloud security assessment (AWS, Azure, GCP, …) | 🟢 | [2026-08-28](https://github.com/prowler-cloud/prowler/releases)<br>`release` |
+| **Prowler**<br>[GitHub](https://github.com/prowler-cloud/prowler) | CSPM | Multi-cloud security assessment (AWS, Azure, GCP, …) | 🟢 | [2026-09-02](https://github.com/prowler-cloud/prowler/releases)<br>`release` |
 | **ScoutSuite**<br>[GitHub](https://github.com/nccgroup/ScoutSuite) | CSPM | Multi-cloud security auditing tool | 🟢 | [2024-05-10](https://github.com/nccgroup/ScoutSuite/releases)<br>`release` |
 | **CloudMapper**<br>[GitHub](https://github.com/duo-labs/cloudmapper) | AWS | Network visualization and inventory for AWS accounts | 🟢 | [2021-11-04](https://github.com/duo-labs/cloudmapper/releases)<br>`release` |
 | **kube-bench**<br>[GitHub](https://github.com/aquasecurity/kube-bench) | Kubernetes | CIS Kubernetes Benchmark checks | 🟢 | [2026-08-05](https://github.com/aquasecurity/kube-bench/releases)<br>`release` |
@@ -396,7 +396,7 @@ CSPM, CNAPP-adjacent OSS, and Kubernetes hardening.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **MISP**<br>[GitHub](https://github.com/MISP/MISP) | Open-source threat intelligence sharing platform | 🟢 | [2026-08-25](https://github.com/MISP/MISP/releases)<br>`release` |
-| **OpenCTI**<br>[GitHub](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence platform | 🟢 | [2026-08-28](https://github.com/OpenCTI-Platform/opencti/releases)<br>`release` |
+| **OpenCTI**<br>[GitHub](https://github.com/OpenCTI-Platform/opencti) | Open Cyber Threat Intelligence platform | 🟢 | [2026-09-04](https://github.com/OpenCTI-Platform/opencti/releases)<br>`release` |
 | **OpenTAXII**<br>[GitHub](https://github.com/eclecticiq/OpenTAXII) | TAXII server implementation for CTI exchange | 🟢 | [2026-01-05](https://github.com/eclecticiq/OpenTAXII/releases)<br>`release` |
 | **YARA**<br>[GitHub](https://github.com/VirusTotal/yara) | Pattern-matching for malware researchers | 🟢 | [2026-07-28](https://github.com/VirusTotal/yara/releases)<br>`release` |
 | **Sigma**<br>[GitHub](https://github.com/SigmaHQ/sigma) | Generic signature format for SIEM systems | 🟢 | [2026-07-09](https://github.com/SigmaHQ/sigma/releases)<br>`release` |
@@ -426,7 +426,7 @@ Credential and leak monitoring / digital risk protection lookups.
 | Tool | Description | License | Activity |
 |---|---|---|---|
 | **Ghidra**<br>[GitHub](https://github.com/NationalSecurityAgency/ghidra) | NSA open-source software reverse engineering suite | 🟢 | [2026-08-18](https://github.com/NationalSecurityAgency/ghidra/releases)<br>`release` |
-| **radare2**<br>[GitHub](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework | 🟢 | [2026-08-07](https://github.com/radareorg/radare2/releases)<br>`release` |
+| **radare2**<br>[GitHub](https://github.com/radareorg/radare2) | UNIX-like reverse engineering framework | 🟢 | [2026-09-06](https://github.com/radareorg/radare2/releases)<br>`release` |
 | **Cutter**<br>[GitHub](https://github.com/rizinorg/cutter) | Free GUI for Rizin / reverse engineering | 🟢 | [2026-06-30](https://github.com/rizinorg/cutter/releases)<br>`release` |
 | **Binary Ninja**<br>[binary.ninja](https://binary.ninja/) | Commercial reverse engineering platform | 🔴 | — |
 | **IDA**<br>[hex-rays.com](https://hex-rays.com/ida-pro/) | Commercial industry-standard disassembler / debugger | 🔴 | — |

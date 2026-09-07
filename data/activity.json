@@ -21,10 +21,10 @@
     "repo": "bearer"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-03",
     "kind": "release",
     "owner": "BishopFox",
-    "ref": "v1.7.6",
+    "ref": "v1.7.7",
     "repo": "sliver"
   },
   {
@@ -35,17 +35,17 @@
     "repo": "kics"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-09-04",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.0.1",
+    "ref": "v13.1.0",
     "repo": "cdxgen"
   },
   {
-    "date": "2026-08-24",
+    "date": "2026-08-31",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.2.300",
+    "ref": "3.2.400",
     "repo": "django-DefectDojo"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-04",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260828.0",
+    "ref": "7.260904.0",
     "repo": "opencti"
   },
   {
@@ -189,10 +189,10 @@
     "repo": "sigma"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-09-02",
     "kind": "release",
     "owner": "SonarSource",
-    "ref": "26.8.0.126808",
+    "ref": "26.9.0.129388",
     "repo": "sonarqube"
   },
   {
@@ -343,10 +343,10 @@
     "repo": "checkov"
   },
   {
-    "date": "2026-08-22",
+    "date": "2026-09-04",
     "kind": "release",
     "owner": "caido",
-    "ref": "v0.58.2",
+    "ref": "v0.58.3",
     "repo": "caido"
   },
   {
@@ -553,10 +553,10 @@
     "repo": "Detect-It-Easy"
   },
   {
-    "date": "2026-08-20",
+    "date": "2026-09-03",
     "kind": "release",
     "owner": "infobyte",
-    "ref": "v5.23.2",
+    "ref": "v5.24.0",
     "repo": "faraday"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-08-30",
+    "date": "2026-09-06",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.2.96",
+    "ref": "v0.3.0",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-02",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.40.0",
+    "ref": "5.41.0",
     "repo": "prowler"
   },
   {
@@ -805,10 +805,10 @@
     "repo": "puma-scan"
   },
   {
-    "date": "2026-08-07",
+    "date": "2026-09-06",
     "kind": "release",
     "owner": "radareorg",
-    "ref": "6.2.0",
+    "ref": "6.2.2",
     "repo": "radare2"
   },
   {
@@ -819,7 +819,7 @@
     "repo": "metasploit-framework"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-05",
     "kind": "commit",
     "owner": "redcanaryco",
     "ref": null,
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-08-26",
+    "date": "2026-09-01",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.175.0",
+    "ref": "v1.176.0",
     "repo": "semgrep"
   },
   {
@@ -1015,10 +1015,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-08-24",
+    "date": "2026-09-03",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.97.1",
+    "ref": "v3.97.4",
     "repo": "trufflehog"
   },
   {
