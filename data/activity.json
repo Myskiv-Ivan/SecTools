@@ -42,10 +42,10 @@
     "repo": "cdxgen"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-09-09",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.2.400",
+    "ref": "3.3.1",
     "repo": "django-DefectDojo"
   },
   {
@@ -56,10 +56,10 @@
     "repo": "dependency-track"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-09-08",
     "kind": "release",
     "owner": "Ericsson",
-    "ref": "v6.28.3",
+    "ref": "v6.29.0",
     "repo": "codechecker"
   },
   {
@@ -84,10 +84,10 @@
     "repo": "Havoc"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-09-10",
     "kind": "release",
     "owner": "MISP",
-    "ref": "v2.5.45",
+    "ref": "v2.5.46",
     "repo": "MISP"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-09-04",
+    "date": "2026-09-10",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260904.0",
+    "ref": "7.260910.0",
     "repo": "opencti"
   },
   {
@@ -196,17 +196,17 @@
     "repo": "sonarqube"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-09-10",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v9.6.0",
+    "ref": "v9.7.0",
     "repo": "BloodHound"
   },
   {
-    "date": "2026-07-24",
+    "date": "2026-09-08",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v2.14.0",
+    "ref": "v2.16.0",
     "repo": "SharpHound"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-08-30",
+    "date": "2026-09-10",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.16",
+    "ref": "3.3.17",
     "repo": "checkov"
   },
   {
@@ -434,10 +434,10 @@
     "repo": "falco"
   },
   {
-    "date": "2026-07-13",
+    "date": "2026-09-09",
     "kind": "release",
     "owner": "ffuf",
-    "ref": "v2.2.1",
+    "ref": "v2.3.0",
     "repo": "ffuf"
   },
   {
@@ -455,10 +455,10 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-09-09",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.17.0",
+    "ref": "17.18.0",
     "repo": "frida"
   },
   {
@@ -490,10 +490,10 @@
     "repo": "golismero"
   },
   {
-    "date": "2026-08-17",
+    "date": "2026-09-14",
     "kind": "release",
     "owner": "google",
-    "ref": "v2.5.1",
+    "ref": "v2.6.0",
     "repo": "osv-scanner"
   },
   {
@@ -567,10 +567,10 @@
     "repo": "insider"
   },
   {
-    "date": "2026-08-08",
+    "date": "2026-09-12",
     "kind": "release",
     "owner": "j3ssie",
-    "ref": "v5.1.0",
+    "ref": "v5.1.1",
     "repo": "Osmedeus"
   },
   {
@@ -623,10 +623,10 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-08-25",
+    "date": "2026-09-08",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-23.1.0",
+    "ref": "llvmorg-23.1.1",
     "repo": "llvm-project"
   },
   {
@@ -756,10 +756,10 @@
     "repo": "dnsx"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-09-08",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v1.11.0",
+    "ref": "v1.12.0",
     "repo": "httpx"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-09-06",
+    "date": "2026-09-13",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.0",
+    "ref": "v0.3.1",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-09-02",
+    "date": "2026-09-11",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.41.0",
+    "ref": "5.42.0",
     "repo": "prowler"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-09-01",
+    "date": "2026-09-10",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.176.0",
+    "ref": "v1.177.0",
     "repo": "semgrep"
   },
   {
@@ -889,10 +889,10 @@
     "repo": "objection"
   },
   {
-    "date": "2025-09-16",
+    "date": "2026-09-08",
     "kind": "release",
     "owner": "sherlock-project",
-    "ref": "v0.16.0",
+    "ref": "v0.16.2",
     "repo": "sherlock"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-08-26",
+    "date": "2026-09-09",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1307.0",
+    "ref": "v1.1307.2",
     "repo": "cli"
   },
   {
