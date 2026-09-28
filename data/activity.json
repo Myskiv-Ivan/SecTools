@@ -35,17 +35,17 @@
     "repo": "kics"
   },
   {
-    "date": "2026-09-04",
+    "date": "2026-09-22",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.1.0",
+    "ref": "v13.2.0",
     "repo": "cdxgen"
   },
   {
-    "date": "2026-09-14",
+    "date": "2026-09-28",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.3.100",
+    "ref": "3.3.300",
     "repo": "django-DefectDojo"
   },
   {
@@ -105,10 +105,10 @@
     "repo": "RedTeamCSharpScripts"
   },
   {
-    "date": "2026-08-18",
+    "date": "2026-09-21",
     "kind": "release",
     "owner": "NationalSecurityAgency",
-    "ref": "Ghidra_12.1.3_build",
+    "ref": "Ghidra_12.1.4_build",
     "repo": "ghidra"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-09-21",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260917.0",
+    "ref": "7.260921.0",
     "repo": "opencti"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-09-27",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.19",
+    "ref": "3.3.20",
     "repo": "checkov"
   },
   {
@@ -455,10 +455,10 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-09-09",
+    "date": "2026-09-25",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.18.0",
+    "ref": "17.19.0",
     "repo": "frida"
   },
   {
@@ -623,10 +623,10 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-09-22",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-23.1.1",
+    "ref": "llvmorg-23.1.2",
     "repo": "llvm-project"
   },
   {
@@ -728,10 +728,10 @@
     "repo": "codemodder-python"
   },
   {
-    "date": "2026-08-28",
+    "date": "2026-09-25",
     "kind": "release",
     "owner": "pmd",
-    "ref": "pmd_releases/7.27.0",
+    "ref": "pmd_releases/7.28.0",
     "repo": "pmd"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-09-20",
+    "date": "2026-09-27",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.2",
+    "ref": "v0.3.3",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-09-11",
+    "date": "2026-09-21",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.42.0",
+    "ref": "5.43.0",
     "repo": "prowler"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-09-10",
+    "date": "2026-09-23",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.177.0",
+    "ref": "v1.178.0",
     "repo": "semgrep"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-09-18",
+    "date": "2026-09-23",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1307.3",
+    "ref": "v1.1307.4",
     "repo": "cli"
   },
   {
@@ -987,10 +987,10 @@
     "repo": "terrascan"
   },
   {
-    "date": "2025-12-30",
+    "date": "2026-09-21",
     "kind": "tag",
     "owner": "the-tcpdump-group",
-    "ref": "tcpdump-4.99.6",
+    "ref": "tcpdump-4.99.7",
     "repo": "tcpdump"
   },
   {
@@ -1015,10 +1015,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-09-16",
+    "date": "2026-09-24",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.97.5",
+    "ref": "v3.97.9",
     "repo": "trufflehog"
   },
   {
@@ -1057,10 +1057,10 @@
     "repo": "wapiti"
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-09-25",
     "kind": "release",
     "owner": "wazuh",
-    "ref": "v4.14.7",
+    "ref": "v4.14.8",
     "repo": "wazuh"
   },
   {
