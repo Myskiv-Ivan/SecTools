@@ -21,10 +21,10 @@
     "repo": "bearer"
   },
   {
-    "date": "2026-09-03",
+    "date": "2026-10-03",
     "kind": "release",
     "owner": "BishopFox",
-    "ref": "v1.7.7",
+    "ref": "v1.7.8",
     "repo": "sliver"
   },
   {
@@ -35,10 +35,10 @@
     "repo": "kics"
   },
   {
-    "date": "2026-09-22",
+    "date": "2026-10-02",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.2.0",
+    "ref": "v13.3.0",
     "repo": "cdxgen"
   },
   {
@@ -84,10 +84,10 @@
     "repo": "Havoc"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-09-29",
     "kind": "release",
     "owner": "MISP",
-    "ref": "v2.5.47",
+    "ref": "v2.5.48",
     "repo": "MISP"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-02",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.260921.0",
+    "ref": "7.261002.0",
     "repo": "opencti"
   },
   {
@@ -203,10 +203,10 @@
     "repo": "BloodHound"
   },
   {
-    "date": "2026-09-08",
+    "date": "2026-10-01",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v2.16.0",
+    "ref": "v2.17.0",
     "repo": "SharpHound"
   },
   {
@@ -238,10 +238,10 @@
     "repo": "domained"
   },
   {
-    "date": "2026-08-10",
+    "date": "2026-10-05",
     "kind": "release",
     "owner": "Velocidex",
-    "ref": "v0.77.2",
+    "ref": "v0.77.3",
     "repo": "velociraptor"
   },
   {
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-10-02",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.119.0",
+    "ref": "v0.120.0",
     "repo": "grype"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-10-01",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.52.0",
+    "ref": "v1.54.0",
     "repo": "syft"
   },
   {
@@ -315,10 +315,10 @@
     "repo": "tfsec"
   },
   {
-    "date": "2026-08-14",
+    "date": "2026-10-01",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.74.0",
+    "ref": "v0.75.0",
     "repo": "trivy"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-09-30",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.20",
+    "ref": "3.3.21",
     "repo": "checkov"
   },
   {
@@ -455,17 +455,17 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-09-25",
+    "date": "2026-10-05",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.19.0",
+    "ref": "17.22.2",
     "repo": "frida"
   },
   {
-    "date": "2026-07-30",
+    "date": "2026-09-30",
     "kind": "release",
     "owner": "future-architect",
-    "ref": "v0.40.1",
+    "ref": "v0.41.0",
     "repo": "vuls"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-08-31",
+    "date": "2026-10-01",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.50.24",
+    "ref": "v23.50.26",
     "repo": "openvas-scanner"
   },
   {
@@ -567,10 +567,10 @@
     "repo": "insider"
   },
   {
-    "date": "2026-09-12",
+    "date": "2026-10-04",
     "kind": "release",
     "owner": "j3ssie",
-    "ref": "v5.1.1",
+    "ref": "v5.1.2",
     "repo": "Osmedeus"
   },
   {
@@ -714,10 +714,10 @@
     "repo": "amass"
   },
   {
-    "date": "2026-06-29",
+    "date": "2026-09-29",
     "kind": "release",
     "owner": "owasp-modsecurity",
-    "ref": "v3.0.16",
+    "ref": "v3.0.17",
     "repo": "ModSecurity"
   },
   {
@@ -735,10 +735,10 @@
     "repo": "pmd"
   },
   {
-    "date": "2026-08-12",
+    "date": "2026-09-30",
     "kind": "release",
     "owner": "presidentbeef",
-    "ref": "v8.0.6",
+    "ref": "v8.1.0",
     "repo": "brakeman"
   },
   {
@@ -763,10 +763,10 @@
     "repo": "httpx"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-10-05",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v1.7.0",
+    "ref": "v1.8.0",
     "repo": "katana"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-09-27",
+    "date": "2026-10-04",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.3",
+    "ref": "v0.3.4",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-09-29",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.43.0",
+    "ref": "5.44.0",
     "repo": "prowler"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-09-23",
+    "date": "2026-10-02",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.178.0",
+    "ref": "v1.179.0",
     "repo": "semgrep"
   },
   {
