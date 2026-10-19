@@ -14,10 +14,10 @@
     "repo": "arachni"
   },
   {
-    "date": "2026-08-24",
+    "date": "2026-10-13",
     "kind": "release",
     "owner": "Bearer",
-    "ref": "v2.1.1",
+    "ref": "v2.1.2",
     "repo": "bearer"
   },
   {
@@ -35,17 +35,17 @@
     "repo": "kics"
   },
   {
-    "date": "2026-10-02",
+    "date": "2026-10-14",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.3.0",
+    "ref": "v13.4.0",
     "repo": "cdxgen"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-10-14",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.4.0",
+    "ref": "3.4.101",
     "repo": "django-DefectDojo"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-10-09",
+    "date": "2026-10-16",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.261008.0",
+    "ref": "7.261016.0",
     "repo": "opencti"
   },
   {
@@ -203,10 +203,10 @@
     "repo": "BloodHound"
   },
   {
-    "date": "2026-10-01",
+    "date": "2026-10-16",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v2.17.0",
+    "ref": "v2.17.1",
     "repo": "SharpHound"
   },
   {
@@ -315,10 +315,10 @@
     "repo": "tfsec"
   },
   {
-    "date": "2026-10-01",
+    "date": "2026-10-14",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.75.0",
+    "ref": "v0.76.0",
     "repo": "trivy"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-10-11",
+    "date": "2026-10-13",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.27",
+    "ref": "3.3.29",
     "repo": "checkov"
   },
   {
@@ -427,10 +427,10 @@
     "repo": "Raccoon"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-19",
     "kind": "release",
     "owner": "falcosecurity",
-    "ref": "0.45.0",
+    "ref": "0.45.1",
     "repo": "falco"
   },
   {
@@ -455,17 +455,17 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-10-09",
+    "date": "2026-10-19",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.23.3",
+    "ref": "17.24.3",
     "repo": "frida"
   },
   {
-    "date": "2026-09-30",
+    "date": "2026-10-15",
     "kind": "release",
     "owner": "future-architect",
-    "ref": "v0.41.0",
+    "ref": "v0.42.0",
     "repo": "vuls"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-10-16",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.51.0",
+    "ref": "v23.52.0",
     "repo": "openvas-scanner"
   },
   {
@@ -679,10 +679,10 @@
     "repo": "ScoutSuite"
   },
   {
-    "date": "2026-08-05",
+    "date": "2026-10-12",
     "kind": "tag",
     "owner": "nmap",
-    "ref": "v7.991",
+    "ref": "v7.992",
     "repo": "nmap"
   },
   {
@@ -700,10 +700,10 @@
     "repo": "osquery"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-10-18",
     "kind": "release",
     "owner": "ossec",
-    "ref": "4.4.0",
+    "ref": "4.4.1",
     "repo": "ossec-hids"
   },
   {
@@ -784,17 +784,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-10-11",
+    "date": "2026-10-18",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.5",
+    "ref": "v0.3.6",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-09-29",
+    "date": "2026-10-15",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.44.0",
+    "ref": "5.45.0",
     "repo": "prowler"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-10-14",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.180.0",
+    "ref": "v1.181.0",
     "repo": "semgrep"
   },
   {
@@ -938,10 +938,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-10-14",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1308.0",
+    "ref": "v1.1308.1",
     "repo": "cli"
   },
   {
@@ -1057,10 +1057,10 @@
     "repo": "wapiti"
   },
   {
-    "date": "2026-09-25",
+    "date": "2026-10-15",
     "kind": "release",
     "owner": "wazuh",
-    "ref": "v4.14.8",
+    "ref": "v4.14.9",
     "repo": "wazuh"
   },
   {
