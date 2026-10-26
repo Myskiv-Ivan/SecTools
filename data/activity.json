@@ -21,10 +21,10 @@
     "repo": "bearer"
   },
   {
-    "date": "2026-10-03",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "BishopFox",
-    "ref": "v1.7.8",
+    "ref": "v1.7.9",
     "repo": "sliver"
   },
   {
@@ -35,24 +35,24 @@
     "repo": "kics"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-23",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.4.0",
+    "ref": "v13.5.0",
     "repo": "cdxgen"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-22",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.4.101",
+    "ref": "3.4.202",
     "repo": "django-DefectDojo"
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "DependencyTrack",
-    "ref": "5.2.0",
+    "ref": "5.2.1",
     "repo": "dependency-track"
   },
   {
@@ -105,10 +105,10 @@
     "repo": "RedTeamCSharpScripts"
   },
   {
-    "date": "2026-09-21",
+    "date": "2026-10-22",
     "kind": "release",
     "owner": "NationalSecurityAgency",
-    "ref": "Ghidra_12.1.4_build",
+    "ref": "Ghidra_12.2_build",
     "repo": "ghidra"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-10-16",
+    "date": "2026-10-23",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.261016.0",
+    "ref": "7.261023.1",
     "repo": "opencti"
   },
   {
@@ -210,10 +210,10 @@
     "repo": "SharpHound"
   },
   {
-    "date": "2026-06-30",
+    "date": "2026-10-20",
     "kind": "release",
     "owner": "TheHive-Project",
-    "ref": "4.1.0",
+    "ref": "4.2.0",
     "repo": "Cortex"
   },
   {
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-10-06",
+    "date": "2026-10-19",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.120.1",
+    "ref": "v0.121.0",
     "repo": "grype"
   },
   {
-    "date": "2026-10-06",
+    "date": "2026-10-19",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.54.1",
+    "ref": "v1.55.0",
     "repo": "syft"
   },
   {
@@ -315,10 +315,10 @@
     "repo": "tfsec"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-21",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.76.0",
+    "ref": "v0.76.1",
     "repo": "trivy"
   },
   {
@@ -336,17 +336,17 @@
     "repo": "beef"
   },
   {
-    "date": "2026-10-13",
+    "date": "2026-10-20",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.3.29",
+    "ref": "3.3.30",
     "repo": "checkov"
   },
   {
-    "date": "2026-09-04",
+    "date": "2026-10-26",
     "kind": "release",
     "owner": "caido",
-    "ref": "v0.58.3",
+    "ref": "v0.59.0",
     "repo": "caido"
   },
   {
@@ -504,10 +504,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-10-16",
+    "date": "2026-10-21",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.52.0",
+    "ref": "v23.52.3",
     "repo": "openvas-scanner"
   },
   {
@@ -532,10 +532,10 @@
     "repo": "hakrawler"
   },
   {
-    "date": "2025-08-23",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "hashcat",
-    "ref": "v7.1.2",
+    "ref": "v8.0.0",
     "repo": "hashcat"
   },
   {
@@ -553,10 +553,10 @@
     "repo": "Detect-It-Easy"
   },
   {
-    "date": "2026-10-06",
+    "date": "2026-10-21",
     "kind": "release",
     "owner": "infobyte",
-    "ref": "v5.25.0",
+    "ref": "v5.25.1",
     "repo": "faraday"
   },
   {
@@ -623,10 +623,10 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-10-06",
+    "date": "2026-10-20",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-23.1.3",
+    "ref": "llvmorg-23.1.4",
     "repo": "llvm-project"
   },
   {
@@ -651,10 +651,10 @@
     "repo": "infersharp"
   },
   {
-    "date": "2026-05-12",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "mitmproxy",
-    "ref": "v12.2.3",
+    "ref": "v12.3.1",
     "repo": "mitmproxy"
   },
   {
@@ -693,10 +693,10 @@
     "repo": "john"
   },
   {
-    "date": "2026-06-24",
+    "date": "2026-10-09",
     "kind": "release",
     "owner": "osquery",
-    "ref": "5.23.1",
+    "ref": "5.24.0",
     "repo": "osquery"
   },
   {
@@ -707,10 +707,10 @@
     "repo": "ossec-hids"
   },
   {
-    "date": "2026-04-07",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "owasp-amass",
-    "ref": "v5.1.1",
+    "ref": "v5.1.3",
     "repo": "amass"
   },
   {
@@ -784,10 +784,10 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-10-18",
+    "date": "2026-10-25",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.6",
+    "ref": "v0.3.7",
     "repo": "wappalyzergo"
   },
   {
@@ -819,7 +819,7 @@
     "repo": "metasploit-framework"
   },
   {
-    "date": "2026-09-05",
+    "date": "2026-10-21",
     "kind": "commit",
     "owner": "redcanaryco",
     "ref": null,
@@ -861,10 +861,10 @@
     "repo": "awesome-security"
   },
   {
-    "date": "2026-08-26",
+    "date": "2026-10-23",
     "kind": "release",
     "owner": "securego",
-    "ref": "v2.29.0",
+    "ref": "v2.30.0",
     "repo": "gosec"
   },
   {
@@ -875,10 +875,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-20",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.181.0",
+    "ref": "v1.182.0",
     "repo": "semgrep"
   },
   {
@@ -931,17 +931,17 @@
     "repo": "spiderfoot"
   },
   {
-    "date": "2026-04-23",
+    "date": "2026-10-21",
     "kind": "release",
     "owner": "snort3",
-    "ref": "3.12.2.0",
+    "ref": "3.12.4.0",
     "repo": "snort3"
   },
   {
-    "date": "2026-10-14",
+    "date": "2026-10-23",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1308.1",
+    "ref": "v1.1308.3",
     "repo": "cli"
   },
   {
@@ -1015,10 +1015,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-10-08",
+    "date": "2026-10-24",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.99.2",
+    "ref": "v3.99.7",
     "repo": "trufflehog"
   },
   {
