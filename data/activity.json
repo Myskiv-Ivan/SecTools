@@ -28,24 +28,24 @@
     "repo": "sliver"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "Checkmarx",
-    "ref": "v2.2.0",
+    "ref": "v2.2.1",
     "repo": "kics"
   },
   {
-    "date": "2026-10-31",
+    "date": "2026-11-07",
     "kind": "release",
     "owner": "CycloneDX",
-    "ref": "v13.6.0",
+    "ref": "v13.7.0",
     "repo": "cdxgen"
   },
   {
-    "date": "2026-10-30",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.4.304",
+    "ref": "3.5.100",
     "repo": "django-DefectDojo"
   },
   {
@@ -56,10 +56,10 @@
     "repo": "dependency-track"
   },
   {
-    "date": "2026-09-17",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "Ericsson",
-    "ref": "v6.29.1",
+    "ref": "v6.29.3",
     "repo": "codechecker"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-10-30",
+    "date": "2026-11-06",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.261030.1",
+    "ref": "7.261106.0",
     "repo": "opencti"
   },
   {
@@ -189,17 +189,17 @@
     "repo": "sigma"
   },
   {
-    "date": "2026-10-12",
+    "date": "2026-11-04",
     "kind": "release",
     "owner": "SonarSource",
-    "ref": "26.10.0.133078",
+    "ref": "26.11.0.134175",
     "repo": "sonarqube"
   },
   {
-    "date": "2026-10-26",
+    "date": "2026-11-06",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v9.9.0",
+    "ref": "v9.9.2",
     "repo": "BloodHound"
   },
   {
@@ -224,7 +224,7 @@
     "repo": "TheHive"
   },
   {
-    "date": "2025-11-16",
+    "date": "2026-11-03",
     "kind": "commit",
     "owner": "Tib3rius",
     "ref": null,
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.121.0",
+    "ref": "v0.121.3",
     "repo": "grype"
   },
   {
-    "date": "2026-10-19",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.55.0",
+    "ref": "v1.57.1",
     "repo": "syft"
   },
   {
@@ -315,10 +315,10 @@
     "repo": "tfsec"
   },
   {
-    "date": "2026-10-21",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "aquasecurity",
-    "ref": "v0.76.1",
+    "ref": "v0.76.2",
     "repo": "trivy"
   },
   {
@@ -339,7 +339,7 @@
     "date": "2026-11-02",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.4.2",
+    "ref": "3.4.3",
     "repo": "checkov"
   },
   {
@@ -392,10 +392,11 @@
     "repo": "docker-bench-security"
   },
   {
-    "date": "2026-07-12",
-    "kind": "release",
+    "date": null,
+    "error": "gh: Git Repository is empty. (HTTP 409)",
+    "kind": "unknown",
     "owner": "drwetter",
-    "ref": "v3.2.4",
+    "ref": null,
     "repo": "testssl.sh"
   },
   {
@@ -455,10 +456,10 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-11-01",
+    "date": "2026-11-07",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.25.1",
+    "ref": "17.26.2",
     "repo": "frida"
   },
   {
@@ -490,10 +491,10 @@
     "repo": "golismero"
   },
   {
-    "date": "2026-10-12",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "google",
-    "ref": "v2.7.0",
+    "ref": "v2.7.1",
     "repo": "osv-scanner"
   },
   {
@@ -504,10 +505,10 @@
     "repo": "tsunami-security-scanner"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "greenbone",
-    "ref": "v23.52.8",
+    "ref": "v23.52.9",
     "repo": "openvas-scanner"
   },
   {
@@ -518,10 +519,10 @@
     "repo": "knock"
   },
   {
-    "date": "2026-10-07",
+    "date": "2026-11-08",
     "kind": "release",
     "owner": "hahwul",
-    "ref": "v3.2.4",
+    "ref": "v3.3.0",
     "repo": "dalfox"
   },
   {
@@ -623,10 +624,10 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-10-20",
+    "date": "2026-11-03",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-23.1.4",
+    "ref": "llvmorg-23.1.5",
     "repo": "llvm-project"
   },
   {
@@ -693,10 +694,10 @@
     "repo": "john"
   },
   {
-    "date": "2026-10-09",
+    "date": "2026-10-29",
     "kind": "release",
     "owner": "osquery",
-    "ref": "5.24.0",
+    "ref": "5.24.1",
     "repo": "osquery"
   },
   {
@@ -784,17 +785,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-11-01",
+    "date": "2026-11-08",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.8",
+    "ref": "v0.3.9",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-11-06",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.47.0",
+    "ref": "5.48.0",
     "repo": "prowler"
   },
   {
@@ -805,10 +806,10 @@
     "repo": "puma-scan"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "radareorg",
-    "ref": "6.2.4",
+    "ref": "6.2.6",
     "repo": "radare2"
   },
   {
@@ -819,7 +820,7 @@
     "repo": "metasploit-framework"
   },
   {
-    "date": "2026-10-31",
+    "date": "2026-11-06",
     "kind": "commit",
     "owner": "redcanaryco",
     "ref": null,
@@ -875,10 +876,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-10-29",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.183.0",
+    "ref": "v1.184.0",
     "repo": "semgrep"
   },
   {
@@ -931,17 +932,17 @@
     "repo": "spiderfoot"
   },
   {
-    "date": "2026-10-21",
+    "date": "2026-11-05",
     "kind": "release",
     "owner": "snort3",
-    "ref": "3.12.4.0",
+    "ref": "3.13.2.0",
     "repo": "snort3"
   },
   {
-    "date": "2026-10-23",
+    "date": "2026-11-04",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1308.3",
+    "ref": "v1.1308.4",
     "repo": "cli"
   },
   {
@@ -1015,10 +1016,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-10-24",
+    "date": "2026-11-02",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.99.7",
+    "ref": "v3.99.8",
     "repo": "trufflehog"
   },
   {
@@ -1057,10 +1058,10 @@
     "repo": "wapiti"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-11-09",
     "kind": "release",
     "owner": "wazuh",
-    "ref": "v4.14.9",
+    "ref": "v4.14.10",
     "repo": "wazuh"
   },
   {
