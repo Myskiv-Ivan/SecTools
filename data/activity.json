@@ -42,17 +42,17 @@
     "repo": "cdxgen"
   },
   {
-    "date": "2026-11-13",
+    "date": "2026-11-20",
     "kind": "release",
     "owner": "DefectDojo",
-    "ref": "3.5.103",
+    "ref": "3.5.202",
     "repo": "django-DefectDojo"
   },
   {
-    "date": "2026-10-25",
+    "date": "2026-11-18",
     "kind": "release",
     "owner": "DependencyTrack",
-    "ref": "5.2.1",
+    "ref": "5.2.2",
     "repo": "dependency-track"
   },
   {
@@ -84,17 +84,17 @@
     "repo": "Havoc"
   },
   {
-    "date": "2026-11-11",
+    "date": "2026-11-23",
     "kind": "release",
     "owner": "MISP",
-    "ref": "v2.5.51",
+    "ref": "v2.5.53",
     "repo": "MISP"
   },
   {
-    "date": "2026-11-15",
+    "date": "2026-11-18",
     "kind": "release",
     "owner": "MobSF",
-    "ref": "v4.6.6",
+    "ref": "v4.6.9",
     "repo": "Mobile-Security-Framework-MobSF"
   },
   {
@@ -140,10 +140,10 @@
     "repo": "phpvulhunter"
   },
   {
-    "date": "2026-11-16",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "OpenCTI-Platform",
-    "ref": "7.261116.0",
+    "ref": "7.261119.0",
     "repo": "opencti"
   },
   {
@@ -196,10 +196,10 @@
     "repo": "sonarqube"
   },
   {
-    "date": "2026-11-06",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "SpecterOps",
-    "ref": "v9.9.2",
+    "ref": "v9.10.1",
     "repo": "BloodHound"
   },
   {
@@ -238,10 +238,10 @@
     "repo": "domained"
   },
   {
-    "date": "2026-10-05",
+    "date": "2026-11-23",
     "kind": "release",
     "owner": "Velocidex",
-    "ref": "v0.77.3",
+    "ref": "v0.77.4",
     "repo": "velociraptor"
   },
   {
@@ -266,17 +266,17 @@
     "repo": "r3con1z3r"
   },
   {
-    "date": "2026-11-09",
+    "date": "2026-11-18",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v0.121.3",
+    "ref": "v0.122.1",
     "repo": "grype"
   },
   {
-    "date": "2026-11-09",
+    "date": "2026-11-16",
     "kind": "release",
     "owner": "anchore",
-    "ref": "v1.57.1",
+    "ref": "v1.57.2",
     "repo": "syft"
   },
   {
@@ -336,10 +336,10 @@
     "repo": "beef"
   },
   {
-    "date": "2026-11-12",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "bridgecrewio",
-    "ref": "3.4.5",
+    "ref": "3.4.6",
     "repo": "checkov"
   },
   {
@@ -456,17 +456,17 @@
     "repo": "impacket"
   },
   {
-    "date": "2026-11-13",
+    "date": "2026-11-20",
     "kind": "release",
     "owner": "frida",
-    "ref": "17.26.3",
+    "ref": "17.27.4",
     "repo": "frida"
   },
   {
-    "date": "2026-10-15",
+    "date": "2026-11-17",
     "kind": "release",
     "owner": "future-architect",
-    "ref": "v0.42.0",
+    "ref": "v0.43.0",
     "repo": "vuls"
   },
   {
@@ -568,10 +568,10 @@
     "repo": "insider"
   },
   {
-    "date": "2026-10-04",
+    "date": "2026-11-21",
     "kind": "release",
     "owner": "j3ssie",
-    "ref": "v5.1.2",
+    "ref": "v5.1.4",
     "repo": "Osmedeus"
   },
   {
@@ -624,10 +624,10 @@
     "repo": "subDomainsBrute"
   },
   {
-    "date": "2026-11-03",
+    "date": "2026-11-17",
     "kind": "release",
     "owner": "llvm",
-    "ref": "llvmorg-23.1.5",
+    "ref": "llvmorg-23.1.6",
     "repo": "llvm-project"
   },
   {
@@ -701,10 +701,10 @@
     "repo": "osquery"
   },
   {
-    "date": "2026-10-18",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "ossec",
-    "ref": "4.4.1",
+    "ref": "4.5.0",
     "repo": "ossec-hids"
   },
   {
@@ -736,10 +736,10 @@
     "repo": "pmd"
   },
   {
-    "date": "2026-09-30",
+    "date": "2026-11-20",
     "kind": "release",
     "owner": "presidentbeef",
-    "ref": "v8.1.0",
+    "ref": "v8.1.1",
     "repo": "brakeman"
   },
   {
@@ -785,17 +785,17 @@
     "repo": "subfinder"
   },
   {
-    "date": "2026-11-15",
+    "date": "2026-11-22",
     "kind": "release",
     "owner": "projectdiscovery",
-    "ref": "v0.3.10",
+    "ref": "v0.3.11",
     "repo": "wappalyzergo"
   },
   {
-    "date": "2026-11-12",
+    "date": "2026-11-23",
     "kind": "release",
     "owner": "prowler-cloud",
-    "ref": "5.49.0",
+    "ref": "5.52.0",
     "repo": "prowler"
   },
   {
@@ -876,10 +876,10 @@
     "repo": "security-code-scan"
   },
   {
-    "date": "2026-11-10",
+    "date": "2026-11-18",
     "kind": "release",
     "owner": "semgrep",
-    "ref": "v1.185.0",
+    "ref": "v1.186.0",
     "repo": "semgrep"
   },
   {
@@ -939,10 +939,10 @@
     "repo": "snort3"
   },
   {
-    "date": "2026-11-04",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "snyk",
-    "ref": "v1.1308.4",
+    "ref": "v1.1309.0",
     "repo": "cli"
   },
   {
@@ -1016,10 +1016,10 @@
     "repo": "waybackurls"
   },
   {
-    "date": "2026-11-12",
+    "date": "2026-11-19",
     "kind": "release",
     "owner": "trufflesecurity",
-    "ref": "v3.99.9",
+    "ref": "v3.100.0",
     "repo": "trufflehog"
   },
   {
@@ -1051,10 +1051,10 @@
     "repo": "volatility3"
   },
   {
-    "date": "2026-08-19",
+    "date": "2026-11-23",
     "kind": "release",
     "owner": "wapiti-scanner",
-    "ref": "3.3.2",
+    "ref": "3.3.5",
     "repo": "wapiti"
   },
   {
